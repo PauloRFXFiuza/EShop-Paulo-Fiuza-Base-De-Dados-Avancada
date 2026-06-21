@@ -1,0 +1,409 @@
+﻿ID_Pedido ; Data ; Produto ; Categoria ; Quantidade ; Preco_Unitario ; Receita_Bruta ; Desconto ; Receita_Liquida ; Regiao ; Canal_Venda ; Status_Entrega ; Estado_UF ; Custo_Unitario ; Custo_Total ; Lucro_Liquido ; Margem_Lucro_Porcentagem ; Idade_Cliente ; Genero_Cliente ; Faixa_Etaria ; Valor_Frete ; Dias_Entrega ; Transportadora ; Meio_Pagamento ; Avaliacao_Cliente
+50;45555;Controle Xbox Wireless Carbon Black;Eletrodomésticos & TV;2;2236;4472;0;4472;Nordeste;Marketplace;Em trânsito;AL;916,76;1833,52;2638,48;0,59;82;Feminino;50+;46;12;LogTech Express;Voucher;1
+63;44347;Console Xbox Series S 512GB;Eletrodomésticos & TV;3;1112;3336;0,15;2835,6;Nordeste;Online;Entregue;AL;689,44;2068,32;767,28;0,270588235;86;Não Informado;50+;49;20;TransFrete;Boleto;2
+131;43408;SSD Kingston NV2 1TB;Computadores;8;4039;32312;0,1;29080,8;Nordeste;Marketplace;Cancelado;AL;2181,06;17448,48;11632,32;0,4;19;Masculino;18-29;138;0;TransFrete;Cartão de Crédito;2
+132;44646;Robo Aspirador de Po Kabum Smart 700;Eletrodomésticos & TV;8;3986;31888;0,1;28699,2;Nordeste;Online;Em trânsito;AL;1594,4;12755,2;15944;0,555555556;74;Feminino;50+;179;10;Correios;Boleto;4
+139;44111;Fechadura Digital Intelbras FR 101;Eletrodomésticos & TV;1;4912;4912;0;4912;Nordeste;Marketplace;Cancelado;AL;2996,32;2996,32;1915,68;0,39;26;Masculino;18-29;41;0;LogTech Express;Cartão de Crédito;1
+178;44298;Asus ROG Phone 9;Celulares;3;3124;9372;0,05;8903,4;Nordeste;Marketplace;Entregue;AL;1343,32;4029,96;4873,44;0,547368421;49;Feminino;30-49;150;5;LogTech Express;Voucher;3
+190;45812;Smartwatch Haylou Solar Lite;Eletrodomésticos & TV;3;1078;3234;0,1;2910,6;Nordeste;Marketplace;Entregue;AL;495,88;1487,64;1422,96;0,488888889;67;Não Informado;50+;31;22;TransFrete;Cartão de Crédito;2
+224;44597;Teclado Mecanico Redragon Kumara;Acessórios;9;2993;26937;0,15;22896,45;Nordeste;Marketplace;Cancelado;AL;1556,36;14007,24;8889,21;0,388235294;27;Feminino;18-29;107;0;LogTech Express;Voucher;4
+274;43598;Camera de Acao DJI Osmo Action 4;Eletrodomésticos & TV;5;3721;18605;0,05;17674,75;Nordeste;Loja Física;Entregue;AL;2232,6;11163;6511,75;0,368421053;52;Feminino;50+;77;17;Correios;Cartão de Crédito;4
+282;45028;Base Cooler para Notebook Multilaser;Acessórios;7;3958;27706;0,1;24935,4;Nordeste;Loja Física;Cancelado;AL;1701,94;11913,58;13021,82;0,522222222;91;Não Informado;50+;112;0;LogTech Express;PIX;3
+284;45552;Caixa de Som Portatil Anker Soundcore 2;Eletrodomésticos & TV;4;700;2800;0,05;2660;Nordeste;Loja Física;Cancelado;AL;350;1400;1260;0,473684211;33;Feminino;30-49;119;0;TransFrete;PIX;5
+290;45290;Fone Xiaomi Redmi Buds 5 Pro;Acessórios;3;1108;3324;0;3324;Nordeste;Online;Entregue;AL;476,44;1429,32;1894,68;0,57;92;Não Informado;50+;78;13;Correios;Boleto;2
+309;45402;Cabo USB-C Baseus 100W;Acessórios;2;3701;7402;0,1;6661,8;Nordeste;Loja Física;Em trânsito;AL;2368,64;4737,28;1924,52;0,288888889;23;Feminino;18-29;125;14;TransFrete;Boleto;1
+321;44513;Notebook ASUS Vivobook 15;Computadores;9;1285;11565;0,05;10986,75;Nordeste;Loja Física;Entregue;AL;732,45;6592,05;4394,7;0,4;32;Não Informado;30-49;40;13;LogTech Express;Boleto;5
+328;45398;Placa de Video RTX 4071 Super;Computadores;10;146;1460;0,1;1314;Nordeste;Online;Em trânsito;AL;97,82;978,2;335,8;0,255555556;70;Masculino;50+;64;7;LogTech Express;Boleto;4
+336;43554;Oppo Reno 12 Pro;Celulares;4;1475;5900;0,1;5310;Nordeste;Marketplace;Entregue;AL;708;2832;2478;0,466666667;19;Feminino;18-29;43;24;TransFrete;Boleto;2
+345;42779;Fone Bluetooth JBL Wave Flex;Acessórios;1;1426;1426;0;1426;Nordeste;Marketplace;Entregue;AL;941,16;941,16;484,84;0,34;82;Não Informado;50+;134;18;TransFrete;PIX;4
+346;45756;Smartwatch Amazfit Bip 5;Eletrodomésticos & TV;8;4837;38696;0,15;32891,6;Nordeste;Marketplace;Em trânsito;AL;3144,05;25152,4;7739,2;0,235294118;64;Feminino;50+;141;9;Correios;PIX;2
+351;45554;Camera de Seguranca Intelbras IM3;Eletrodomésticos & TV;5;4642;23210;0,05;22049,5;Nordeste;Marketplace;Em trânsito;AL;2970,88;14854,4;7195,1;0,326315789;84;Masculino;50+;88;22;Correios;Voucher;1
+366;43767;Notebook Gamer ASUS TUF A15;Computadores;10;3435;34350;0;34350;Nordeste;Online;Em trânsito;AL;2335,8;23358;10992;0,32;82;Masculino;50+;45;25;LogTech Express;Voucher;5
+371;43855;Honor Magic 6 Pro;Celulares;8;4548;36384;0,15;30926,4;Nordeste;Loja Física;Cancelado;AL;2592,36;20738,88;10187,52;0,329411765;92;Não Informado;50+;170;0;TransFrete;Boleto;5
+393;45070;Google Chromecast com Google TV 4K;Eletrodomésticos & TV;3;2227;6681;0,05;6346,95;Nordeste;Online;Entregue;AL;1091,23;3273,69;3073,26;0,484210526;51;Feminino;50+;146;12;TransFrete;Cartão de Crédito;4
+403;45772;Fone Xiaomi Redmi Buds 5 Pro;Acessórios;9;1304;11736;0,15;9975,6;Nordeste;Loja Física;Entregue;AL;808,48;7276,32;2699,28;0,270588235;85;Masculino;50+;117;11;TransFrete;PIX;5
+410;43770;Carregador Portatil Baseus Power Bank 30000mAh;Acessórios;9;702;6318;0,1;5686,2;Nordeste;Online;Cancelado;AL;358,02;3222,18;2464,02;0,433333333;26;Feminino;18-29;46;0;Correios;Cartão de Crédito;3
+445;44661;Mini PC Beelink SER5;Computadores;7;1189;8323;0,15;7074,55;Nordeste;Marketplace;Entregue;AL;749,07;5243,49;1831,06;0,258823529;52;Feminino;50+;60;11;TransFrete;Voucher;4
+573;43530;Carregador Portatil Anker PowerCore 10000mAh;Acessórios;7;3895;27265;0,15;23175,25;Nordeste;Online;Entregue;AL;1596,95;11178,65;11996,6;0,517647059;60;Feminino;50+;41;3;Correios;Boleto;1
+622;43904;iPad Air M2;Computadores;10;1391;13910;0;13910;Nordeste;Online;Cancelado;AL;959,79;9597,9;4312,1;0,31;80;Não Informado;50+;64;0;Correios;Boleto;3
+632;44580;POCO M5 Pro;Celulares;7;2058;14406;0,1;12965,4;Nordeste;Loja Física;Entregue;AL;905,52;6338,64;6626,76;0,511111111;89;Não Informado;50+;59;9;Correios;Boleto;1
+639;43824;Notebook Gamer ASUS TUF A15;Computadores;1;1653;1653;0,15;1405,05;Nordeste;Marketplace;Em trânsito;AL;1057,92;1057,92;347,13;0,247058824;39;Masculino;30-49;103;19;Correios;Cartão de Crédito;1
+734;42956;Amazon Fire TV Stick 4K;Eletrodomésticos & TV;7;2404;16828;0,1;15145,2;Nordeste;Marketplace;Entregue;AL;1610,68;11274,76;3870,44;0,255555556;24;Não Informado;18-29;33;13;LogTech Express;Cartão de Crédito;1
+794;44347;Cabo Lightning Baseus;Acessórios;8;4700;37600;0;37600;Nordeste;Loja Física;Em trânsito;AL;2256;18048;19552;0,52;75;Não Informado;50+;61;10;Correios;PIX;4
+812;44673;iPhone SE 4;Celulares;7;4250;29750;0;29750;Nordeste;Marketplace;Cancelado;AL;2507,5;17552,5;12197,5;0,41;59;Não Informado;50+;152;0;Correios;Boleto;2
+836;43434;MacBook Air M3;Computadores;6;4328;25968;0;25968;Nordeste;Marketplace;Entregue;AL;2943,04;17658,24;8309,76;0,32;72;Feminino;50+;138;21;LogTech Express;Cartão de Crédito;2
+859;44459;Samsung Galaxy S25 FE;Celulares;4;2462;9848;0,15;8370,8;Nordeste;Online;Em trânsito;AL;1280,24;5120,96;3249,84;0,388235294;61;Feminino;50+;143;5;Correios;Cartão de Crédito;4
+903;43664;Memoria RAM Corsair Vengeance 16GB;Computadores;1;2298;2298;0,05;2183,1;Nordeste;Marketplace;Em trânsito;AL;1447,74;1447,74;735,36;0,336842105;88;Não Informado;50+;27;18;Correios;Cartão de Crédito;1
+910;44238;Samsung Galaxy M35;Celulares;8;1683;13464;0,15;11444,4;Nordeste;Online;Cancelado;AL;706,86;5654,88;5789,52;0,505882353;20;Não Informado;18-29;126;0;TransFrete;Voucher;3
+929;43924;Smart TV LG OLED 55 B4;Eletrodomésticos & TV;3;635;1905;0,05;1809,75;Nordeste;Online;Entregue;AL;381;1143;666,75;0,368421053;44;Não Informado;30-49;125;6;TransFrete;Voucher;3
+958;43208;Smartwatch Apple Watch Series 10;Eletrodomésticos & TV;9;4142;37278;0;37278;Nordeste;Marketplace;Em trânsito;AL;2029,58;18266,22;19011,78;0,51;85;Feminino;50+;45;10;TransFrete;Voucher;1
+968;45750;Mouse Sem Fio Logitech M280;Acessórios;10;1747;17470;0,15;14849,5;Nordeste;Marketplace;Em trânsito;AL;960,85;9608,5;5241;0,352941176;92;Feminino;50+;37;12;TransFrete;Cartão de Crédito;2
+986;43037;Notebook Gamer Dell G15;Computadores;3;4412;13236;0,05;12574,2;Nordeste;Online;Em trânsito;AL;1897,16;5691,48;6882,72;0,547368421;69;Masculino;50+;144;5;TransFrete;Voucher;5
+995;44979;Sony Xperia 1 VI;Celulares;4;1378;5512;0,05;5236,4;Nordeste;Loja Física;Entregue;AL;716,56;2866,24;2370,16;0,452631579;39;Feminino;30-49;152;16;Correios;PIX;3
+1047;45741;Fechadura Eletronica de Embutir Papaiz;Eletrodomésticos & TV;7;3649;25543;0,15;21711,55;Nordeste;Online;Em trânsito;AL;1860,99;13026,93;8684,62;0,4;34;Não Informado;30-49;94;25;LogTech Express;Voucher;3
+1061;45769;Amazon Kindle Paperwhite 16GB;Computadores;10;2502;25020;0,1;22518;Nordeste;Loja Física;Entregue;AL;1301,04;13010,4;9507,6;0,422222222;34;Não Informado;30-49;121;24;Correios;Boleto;2
+1097;45205;iPad Pro M4;Computadores;8;3411;27288;0,15;23194,8;Nordeste;Loja Física;Entregue;AL;1364,4;10915,2;12279,6;0,529411765;82;Não Informado;50+;156;4;Correios;Voucher;1
+1115;43510;Apple AirPods 3;Acessórios;2;1386;2772;0;2772;Nordeste;Loja Física;Cancelado;AL;637,56;1275,12;1496,88;0,54;47;Feminino;30-49;73;0;TransFrete;Voucher;3
+1121;42767;Processador AMD Ryzen 7 5700X;Computadores;8;678;5424;0,15;4610,4;Nordeste;Loja Física;Entregue;AL;427,14;3417,12;1193,28;0,258823529;77;Masculino;50+;166;24;LogTech Express;Boleto;2
+1180;44745;Notebook Lenovo ThinkPad E14;Computadores;2;160;320;0;320;Nordeste;Loja Física;Cancelado;AL;102,4;204,8;115,2;0,36;24;Masculino;18-29;180;0;Correios;Voucher;5
+1217;44094;Home Theater JBL Bar 500;Eletrodomésticos & TV;9;2756;24804;0,1;22323,6;Nordeste;Online;Em trânsito;AL;1295,32;11657,88;10665,72;0,477777778;38;Feminino;30-49;114;5;Correios;PIX;5
+1259;44735;Infinix Hot 40i;Celulares;7;163;1141;0,15;969,85;Nordeste;Marketplace;Entregue;AL;66,83;467,81;502,04;0,517647059;66;Feminino;50+;20;21;TransFrete;Cartão de Crédito;1
+1273;44331;Mouse Logitech Pebble M350;Acessórios;3;777;2331;0,1;2097,9;Nordeste;Loja Física;Em trânsito;AL;512,82;1538,46;559,44;0,266666667;93;Não Informado;50+;134;11;LogTech Express;Cartão de Crédito;3
+1324;45299;Xiaomi 14 Ultra;Celulares;5;1751;8755;0,1;7879,5;Nordeste;Loja Física;Em trânsito;AL;752,93;3764,65;4114,85;0,522222222;89;Feminino;50+;82;10;Correios;Voucher;4
+1370;44178;Fone Ambie Sound Earcuffs;Acessórios;7;1563;10941;0,05;10393,95;Nordeste;Online;Entregue;AL;797,13;5579,91;4814,04;0,463157895;39;Masculino;30-49;124;7;LogTech Express;Cartão de Crédito;3
+1415;45335;Mini PC Beelink SER5;Computadores;10;1977;19770;0,15;16804,5;Nordeste;Online;Entregue;AL;909,42;9094,2;7710,3;0,458823529;30;Feminino;30-49;96;9;LogTech Express;PIX;5
+1439;45610;Nokia G22;Celulares;5;3604;18020;0,05;17119;Nordeste;Marketplace;Entregue;AL;1874,08;9370,4;7748,6;0,452631579;84;Masculino;50+;17;19;LogTech Express;Boleto;1
+1452;44804;Teclado Mecanico Corsair K70;Acessórios;4;4828;19312;0;19312;Nordeste;Online;Entregue;AL;2751,96;11007,84;8304,16;0,43;58;Não Informado;50+;37;14;Correios;Boleto;2
+1460;43505;Monitor Dell 27 4K;Computadores;5;2525;12625;0,05;11993,75;Nordeste;Marketplace;Entregue;AL;1338,25;6691,25;5302,5;0,442105263;83;Feminino;50+;31;7;Correios;Cartão de Crédito;1
+1480;44754;Notebook Lenovo ThinkPad E14;Computadores;9;1857;16713;0,1;15041,7;Nordeste;Loja Física;Entregue;AL;1262,76;11364,84;3676,86;0,244444444;19;Não Informado;18-29;83;19;Correios;Cartão de Crédito;1
+1490;45748;Xiaomi Redmi Note 14 Pro;Celulares;4;2867;11468;0;11468;Nordeste;Online;Em trânsito;AL;2006,9;8027,6;3440,4;0,3;56;Não Informado;50+;119;18;LogTech Express;Boleto;5
+1513;43374;Notebook HP 256 G9;Computadores;2;4333;8666;0,15;7366,1;Nordeste;Loja Física;Em trânsito;AL;1776,53;3553,06;3813,04;0,517647059;52;Não Informado;50+;22;11;LogTech Express;Cartão de Crédito;4
+1528;45064;Asus ROG Phone 9;Celulares;10;946;9460;0,05;8987;Nordeste;Online;Entregue;AL;444,62;4446,2;4540,8;0,505263158;24;Feminino;18-29;42;17;Correios;Boleto;5
+1536;44765;Nokia G22;Celulares;10;4451;44510;0,15;37833,5;Nordeste;Loja Física;Em trânsito;AL;2626,09;26260,9;11572,6;0,305882353;33;Feminino;30-49;139;13;Correios;Cartão de Crédito;5
+1560;44398;Sony Xperia 1 VI;Celulares;7;4841;33887;0;33887;Nordeste;Online;Entregue;AL;3049,83;21348,81;12538,19;0,37;44;Masculino;30-49;156;22;Correios;PIX;5
+1576;45360;iPhone 15 Pro Max;Celulares;1;4720;4720;0,1;4248;Nordeste;Loja Física;Entregue;AL;1982,4;1982,4;2265,6;0,533333333;64;Feminino;50+;111;20;Correios;PIX;3
+1581;45962;Smartwatch Amazfit Bip 5;Eletrodomésticos & TV;1;1856;1856;0;1856;Nordeste;Online;Entregue;AL;1224,96;1224,96;631,04;0,34;21;Masculino;18-29;56;7;Correios;Boleto;1
+1589;44177;Micro-ondas Electrolux 31L MEO44;Eletrodomésticos & TV;4;3170;12680;0,15;10778;Nordeste;Marketplace;Em trânsito;AL;1363,1;5452,4;5325,6;0,494117647;37;Feminino;30-49;31;3;Correios;Boleto;4
+1623;42987;Notebook HP 256 G9;Computadores;10;3800;38000;0,05;36100;Nordeste;Marketplace;Em trânsito;AL;1558;15580;20520;0,568421053;77;Feminino;50+;147;7;LogTech Express;PIX;1
+1635;43112;iPhone SE 4;Celulares;1;507;507;0,05;481,65;Nordeste;Loja Física;Entregue;AL;288,99;288,99;192,66;0,4;78;Feminino;50+;58;3;Correios;Voucher;1
+1652;42839;Mini Projetor Portatil Samsung The Freestyle;Eletrodomésticos & TV;8;2656;21248;0,1;19123,2;Nordeste;Online;Entregue;AL;1434,24;11473,92;7649,28;0,4;58;Feminino;50+;78;20;LogTech Express;Voucher;3
+1659;44510;Apple AirPods 3;Acessórios;4;793;3172;0,15;2696,2;Nordeste;Loja Física;Entregue;AL;356,85;1427,4;1268,8;0,470588235;22;Masculino;18-29;52;25;TransFrete;Voucher;2
+1660;42808;Console Lenovo Legion Go;Eletrodomésticos & TV;6;524;3144;0,05;2986,8;Nordeste;Marketplace;Entregue;AL;319,64;1917,84;1068,96;0,357894737;33;Feminino;30-49;36;20;Correios;Cartão de Crédito;4
+1691;45589;Xiaomi Redmi Note 13;Celulares;3;3918;11754;0,1;10578,6;Nordeste;Marketplace;Entregue;AL;1684,74;5054,22;5524,38;0,522222222;41;Feminino;30-49;162;6;LogTech Express;Cartão de Crédito;2
+1751;45002;Suporte Articulado para Monitor ELG F80N;Acessórios;6;737;4422;0,15;3758,7;Nordeste;Marketplace;Entregue;AL;405,35;2432,1;1326,6;0,352941176;82;Masculino;50+;137;3;TransFrete;PIX;5
+1768;43292;Amazon Kindle Paperwhite 16GB;Computadores;4;4666;18664;0,05;17730,8;Nordeste;Online;Em trânsito;AL;2379,66;9518,64;8212,16;0,463157895;74;Masculino;50+;15;13;Correios;PIX;3
+1810;44746;Notebook Samsung Galaxy Book4;Computadores;9;2833;25497;0,05;24222,15;Nordeste;Loja Física;Em trânsito;AL;1444,83;13003,47;11218,68;0,463157895;80;Não Informado;50+;110;5;LogTech Express;Voucher;4
+1839;45916;Nokia G22;Celulares;5;1828;9140;0;9140;Nordeste;Online;Em trânsito;AL;1115,08;5575,4;3564,6;0,39;22;Feminino;18-29;40;18;TransFrete;Cartão de Crédito;1
+1857;44729;Smartwatch Amazfit Bip 5;Eletrodomésticos & TV;3;1919;5757;0,05;5469,15;Nordeste;Loja Física;Entregue;AL;1132,21;3396,63;2072,52;0,378947368;78;Não Informado;50+;122;2;Correios;Voucher;4
+1869;45475;Fone Philips TAT1108 TWS;Acessórios;5;4501;22505;0,05;21379,75;Nordeste;Online;Entregue;AL;1935,43;9677,15;11702,6;0,547368421;18;Feminino;18-29;98;25;TransFrete;Boleto;5
+1893;45563;Fone Bluetooth JBL Tune 520BT;Acessórios;7;3825;26775;0,15;22758,75;Nordeste;Marketplace;Entregue;AL;2562,75;17939,25;4819,5;0,211764706;34;Masculino;30-49;86;3;Correios;Voucher;1
+1894;45113;Notebook Acer Swift Go;Computadores;2;4402;8804;0,05;8363,8;Nordeste;Marketplace;Entregue;AL;2333,06;4666,12;3697,68;0,442105263;52;Masculino;50+;162;7;Correios;Boleto;3
+1955;45304;Pilha Recarregavel Duracell AAA;Eletrodomésticos & TV;5;174;870;0,05;826,5;Nordeste;Online;Entregue;AL;76,56;382,8;443,7;0,536842105;74;Masculino;50+;171;6;TransFrete;PIX;3
+1968;45345;iPhone SE 4;Celulares;10;3237;32370;0,1;29133;Nordeste;Marketplace;Em trânsito;AL;1812,72;18127,2;11005,8;0,377777778;51;Masculino;50+;95;2;TransFrete;Boleto;2
+2030;44353;Notebook Gamer Dell G15;Computadores;10;4604;46040;0,05;43738;Nordeste;Online;Entregue;AL;2578,24;25782,4;17955,6;0,410526316;41;Feminino;30-49;175;16;LogTech Express;Voucher;3
+2066;42828;Headset Gamer Razer BlackShark V2 X;Acessórios;1;761;761;0,1;684,9;Nordeste;Loja Física;Cancelado;AL;464,21;464,21;220,69;0,322222222;28;Feminino;18-29;137;0;Correios;PIX;4
+2077;43761;Notebook Gamer Acer Nitro V16;Computadores;2;4846;9692;0,05;9207,4;Nordeste;Loja Física;Em trânsito;AL;3198,36;6396,72;2810,68;0,305263158;42;Feminino;30-49;128;10;LogTech Express;Cartão de Crédito;2
+2097;44526;Robo Aspirador de Po Liectroux XR500;Eletrodomésticos & TV;8;3136;25088;0,1;22579,2;Nordeste;Marketplace;Cancelado;AL;1818,88;14551,04;8028,16;0,355555556;55;Feminino;50+;100;0;Correios;Boleto;2
+2124;44257;Mouse Gamer Logitech G203;Acessórios;8;1074;8592;0,15;7303,2;Nordeste;Marketplace;Entregue;AL;719,58;5756,64;1546,56;0,211764706;65;Feminino;50+;168;21;TransFrete;Cartão de Crédito;4
+2155;43002;SSD Kingston NV2 1TB;Computadores;7;4792;33544;0;33544;Nordeste;Online;Entregue;AL;2156,4;15094,8;18449,2;0,55;67;Feminino;50+;85;15;LogTech Express;PIX;3
+2167;44352;Smartwatch Samsung Galaxy Watch 7;Eletrodomésticos & TV;6;2110;12660;0,05;12027;Nordeste;Loja Física;Entregue;AL;1139,4;6836,4;5190,6;0,431578947;65;Masculino;50+;144;9;TransFrete;Cartão de Crédito;2
+2179;44825;Cabo Lightning Baseus;Acessórios;2;4356;8712;0,15;7405,2;Nordeste;Loja Física;Entregue;AL;2700,72;5401,44;2003,76;0,270588235;69;Masculino;50+;63;2;TransFrete;Cartão de Crédito;3
+2197;43643;Nothing Phone (2a);Celulares;9;3115;28035;0,1;25231,5;Nordeste;Online;Entregue;AL;1308,3;11774,7;13456,8;0,533333333;43;Masculino;30-49;165;12;LogTech Express;PIX;2
+2199;43952;Tablet Lenovo Tab P12;Computadores;6;2456;14736;0,15;12525,6;Nordeste;Online;Entregue;AL;1006,96;6041,76;6483,84;0,517647059;91;Masculino;50+;174;8;LogTech Express;Cartão de Crédito;2
+2203;43699;Smartwatch Samsung Galaxy Watch 7;Eletrodomésticos & TV;4;1693;6772;0,05;6433,4;Nordeste;Loja Física;Entregue;AL;1015,8;4063,2;2370,2;0,368421053;40;Feminino;30-49;55;4;Correios;Voucher;4
+2234;42989;Smartwatch Xiaomi Redmi Watch 5;Eletrodomésticos & TV;9;4101;36909;0;36909;Nordeste;Loja Física;Entregue;AL;2460,6;22145,4;14763,6;0,4;52;Não Informado;50+;79;17;LogTech Express;PIX;2
+2244;44394;Teclado Mecanico Redragon Kumara;Acessórios;8;3478;27824;0,1;25041,6;Nordeste;Online;Cancelado;AL;2365,04;18920,32;6121,28;0,244444444;85;Masculino;50+;103;0;LogTech Express;Boleto;4
+2274;45818;Realme Note 50;Celulares;10;1108;11080;0,15;9418;Nordeste;Marketplace;Em trânsito;AL;609,4;6094;3324;0,352941176;71;Não Informado;50+;26;20;LogTech Express;PIX;2
+2284;42882;Smartwatch Amazfit Bip 5;Eletrodomésticos & TV;9;3366;30294;0;30294;Nordeste;Loja Física;Entregue;AL;2288,88;20599,92;9694,08;0,32;59;Feminino;50+;79;10;TransFrete;Cartão de Crédito;1
+2287;43908;Smart TV Xiaomi TV A Pro 55;Eletrodomésticos & TV;9;4366;39294;0,1;35364,6;Nordeste;Loja Física;Entregue;AL;2444,96;22004,64;13359,96;0,377777778;94;Feminino;50+;93;4;Correios;Boleto;1
+2334;43670;Motorola Moto G24;Celulares;6;1034;6204;0,15;5273,4;Nordeste;Online;Entregue;AL;465,3;2791,8;2481,6;0,470588235;58;Masculino;50+;88;14;LogTech Express;Boleto;5
+2335;43879;Fone Bluetooth JBL Wave Flex;Acessórios;9;1204;10836;0,1;9752,4;Nordeste;Loja Física;Em trânsito;AL;493,64;4442,76;5309,64;0,544444444;52;Feminino;50+;60;21;LogTech Express;Boleto;4
+2366;43043;Samsung Galaxy M35;Celulares;4;1499;5996;0;5996;Nordeste;Loja Física;Entregue;AL;689,54;2758,16;3237,84;0,54;27;Não Informado;18-29;170;10;Correios;PIX;1
+2405;43090;Filtro de Linha iClamper Energia 5;Acessórios;2;1028;2056;0;2056;Nordeste;Marketplace;Em trânsito;AL;668,2;1336,4;719,6;0,35;26;Não Informado;18-29;168;22;Correios;Boleto;4
+2434;45234;Motorola Edge 50 Neo;Celulares;5;3632;18160;0;18160;Nordeste;Loja Física;Em trânsito;AL;2397,12;11985,6;6174,4;0,34;74;Não Informado;50+;73;24;LogTech Express;PIX;4
+2453;43689;Notebook Gamer Acer Nitro V16;Computadores;5;577;2885;0;2885;Nordeste;Marketplace;Entregue;AL;317,35;1586,75;1298,25;0,45;74;Feminino;50+;37;15;TransFrete;Cartão de Crédito;2
+2458;45501;Headset Gamer HyperX Cloud Stinger 2;Acessórios;5;1497;7485;0,05;7110,75;Nordeste;Marketplace;Entregue;AL;928,14;4640,7;2470,05;0,347368421;72;Não Informado;50+;69;23;Correios;PIX;2
+2493;44444;SSD Crucial T500 4TB;Computadores;1;112;112;0,15;95,2;Nordeste;Online;Cancelado;AL;75,04;75,04;20,16;0,211764706;42;Feminino;30-49;53;0;TransFrete;Boleto;2
+2511;44749;Smartwatch Samsung Galaxy Watch 7;Eletrodomésticos & TV;6;3427;20562;0,1;18505,8;Nordeste;Loja Física;Cancelado;AL;1884,85;11309,1;7196,7;0,388888889;22;Feminino;18-29;153;0;Correios;Boleto;5
+2515;43147;Realme 13 Pro+;Celulares;10;388;3880;0;3880;Nordeste;Marketplace;Em trânsito;AL;155,2;1552;2328;0,6;88;Masculino;50+;137;12;Correios;Cartão de Crédito;2
+2533;45199;Carregador Portatil Anker PowerCore 10000mAh;Acessórios;1;4678;4678;0,15;3976,3;Nordeste;Marketplace;Entregue;AL;3274,6;3274,6;701,7;0,176470588;84;Masculino;50+;25;22;Correios;PIX;5
+2629;44466;iPhone 15 Plus;Celulares;6;357;2142;0,05;2034,9;Nordeste;Online;Cancelado;AL;192,78;1156,68;878,22;0,431578947;32;Não Informado;30-49;148;0;Correios;Cartão de Crédito;3
+2679;45054;Carregador Portatil Baseus Power Bank 30000mAh;Acessórios;1;4244;4244;0;4244;Nordeste;Marketplace;Entregue;AL;2546,4;2546,4;1697,6;0,4;78;Não Informado;50+;139;23;LogTech Express;PIX;1
+2685;43110;Camera de Seguranca TP-Link Tapo C200;Eletrodomésticos & TV;5;3671;18355;0,1;16519,5;Nordeste;Loja Física;Entregue;AL;1945,63;9728,15;6791,35;0,411111111;36;Feminino;30-49;102;17;LogTech Express;PIX;3
+2692;44219;Notebook HP 256 G9;Computadores;4;1826;7304;0,05;6938,8;Nordeste;Loja Física;Entregue;AL;803,44;3213,76;3725,04;0,536842105;44;Não Informado;30-49;46;20;Correios;Voucher;1
+2717;45268;Smart TV Samsung Neo QLED 65;Eletrodomésticos & TV;4;2248;8992;0,05;8542,4;Nordeste;Marketplace;Entregue;AL;1101,52;4406,08;4136,32;0,484210526;23;Masculino;18-29;89;15;TransFrete;Boleto;1
+2726;45934;Xiaomi 14 Ultra;Celulares;4;851;3404;0,05;3233,8;Nordeste;Loja Física;Entregue;AL;340,4;1361,6;1872,2;0,578947368;73;Masculino;50+;57;16;Correios;PIX;1
+2759;44642;Smartwatch Haylou Solar Lite;Eletrodomésticos & TV;5;1506;7530;0,1;6777;Nordeste;Loja Física;Cancelado;AL;1024,08;5120,4;1656,6;0,244444444;68;Feminino;50+;117;0;TransFrete;Boleto;1
+2813;45414;Placa de Video RX 7600 XT;Computadores;4;4191;16764;0;16764;Nordeste;Marketplace;Em trânsito;AL;2556,51;10226,04;6537,96;0,39;44;Masculino;30-49;93;16;LogTech Express;Cartão de Crédito;1
+2814;43927;Samsung Galaxy Buds FE;Acessórios;5;2918;14590;0,05;13860,5;Nordeste;Marketplace;Entregue;AL;1779,98;8899,9;4960,6;0,357894737;71;Masculino;50+;149;8;TransFrete;Boleto;5
+2878;42743;Monitor Samsung T350 24;Computadores;4;2631;10524;0;10524;Nordeste;Online;Cancelado;AL;1105,02;4420,08;6103,92;0,58;57;Feminino;50+;108;0;LogTech Express;Cartão de Crédito;5
+2883;43756;Smart TV AOC Roku 43;Eletrodomésticos & TV;6;2732;16392;0,1;14752,8;Nordeste;Online;Entregue;AL;1557,24;9343,44;5409,36;0,366666667;52;Masculino;50+;172;18;Correios;Cartão de Crédito;3
+2926;45426;Fone QCY T13 TWS;Acessórios;5;101;505;0,1;454,5;Nordeste;Marketplace;Cancelado;AL;67,67;338,35;116,15;0,255555556;74;Masculino;50+;43;0;TransFrete;PIX;2
+2944;43993;Teclado e Mouse Sem Fio Dell KM3322W;Acessórios;2;2289;4578;0,1;4120,2;Nordeste;Marketplace;Cancelado;AL;1098,72;2197,44;1922,76;0,466666667;27;Não Informado;18-29;120;0;Correios;PIX;2
+2962;45829;Micro-ondas Electrolux 31L MEO44;Eletrodomésticos & TV;3;2470;7410;0,1;6669;Nordeste;Marketplace;Em trânsito;AL;1210,3;3630,9;3038,1;0,455555556;81;Não Informado;50+;113;12;TransFrete;Boleto;4
+2965;43939;Samsung Galaxy Z Flip 6;Celulares;2;2458;4916;0,1;4424,4;Nordeste;Online;Entregue;AL;1106,1;2212,2;2212,2;0,5;66;Masculino;50+;167;4;LogTech Express;PIX;3
+3011;45656;Caixa de Som Bluetooth LG XBOOM Go;Eletrodomésticos & TV;1;1609;1609;0,05;1528,55;Nordeste;Loja Física;Entregue;AL;691,87;691,87;836,68;0,547368421;88;Masculino;50+;137;20;TransFrete;Boleto;5
+3013;44555;Console Xbox Series S 512GB;Eletrodomésticos & TV;5;1786;8930;0,05;8483,5;Nordeste;Marketplace;Entregue;AL;1125,18;5625,9;2857,6;0,336842105;90;Feminino;50+;63;13;Correios;Voucher;4
+3027;44835;Smartwatch Samsung Galaxy Watch 7;Eletrodomésticos & TV;2;1584;3168;0,15;2692,8;Nordeste;Loja Física;Em trânsito;AL;792;1584;1108,8;0,411764706;55;Feminino;50+;180;5;Correios;Boleto;5
+3047;43169;Roku Express HD;Eletrodomésticos & TV;9;4178;37602;0,15;31961,7;Nordeste;Loja Física;Cancelado;AL;2130,78;19177,02;12784,68;0,4;84;Feminino;50+;132;0;LogTech Express;Voucher;5
+3060;44118;Nokia G22;Celulares;9;3738;33642;0,15;28595,7;Nordeste;Marketplace;Em trânsito;AL;1495,2;13456,8;15138,9;0,529411765;46;Feminino;30-49;136;14;LogTech Express;PIX;5
+3074;42995;Samsung Galaxy Z Flip 6;Celulares;7;1242;8694;0;8694;Nordeste;Online;Entregue;AL;732,78;5129,46;3564,54;0,41;35;Feminino;30-49;134;24;LogTech Express;PIX;4
+3075;44221;Google Chromecast com Google TV 4K;Eletrodomésticos & TV;8;4846;38768;0,05;36829,6;Nordeste;Marketplace;Entregue;AL;3198,36;25586,88;11242,72;0,305263158;61;Não Informado;50+;146;7;TransFrete;Voucher;1
+3229;45312;Fone Xiaomi Redmi Buds 5 Pro;Acessórios;4;4457;17828;0,05;16936,6;Nordeste;Online;Entregue;AL;2406,78;9627,12;7309,48;0,431578947;55;Feminino;50+;114;20;LogTech Express;Cartão de Crédito;2
+3260;44439;Camera de Seguranca TP-Link Tapo C200;Eletrodomésticos & TV;9;2351;21159;0,1;19043,1;Nordeste;Loja Física;Cancelado;AL;940,4;8463,6;10579,5;0,555555556;58;Não Informado;50+;180;0;TransFrete;PIX;3
+3316;44267;Samsung Galaxy Z Flip 5;Celulares;7;1626;11382;0;11382;Nordeste;Loja Física;Entregue;AL;747,96;5235,72;6146,28;0,54;50;Masculino;50+;109;18;LogTech Express;Boleto;2
+3331;44595;Base Cooler para Notebook Multilaser;Acessórios;5;1217;6085;0,05;5780,75;Nordeste;Loja Física;Entregue;AL;851,9;4259,5;1521,25;0,263157895;47;Não Informado;30-49;145;17;TransFrete;Voucher;4
+3335;43913;Headset Gamer Razer BlackShark V2 X;Acessórios;8;202;1616;0,1;1454,4;Nordeste;Marketplace;Cancelado;AL;82,82;662,56;791,84;0,544444444;73;Não Informado;50+;42;0;Correios;Cartão de Crédito;4
+3341;45587;Suporte Articulado para Monitor ELG F80N;Acessórios;1;4673;4673;0;4673;Nordeste;Marketplace;Em trânsito;AL;2523,42;2523,42;2149,58;0,46;36;Feminino;30-49;121;21;LogTech Express;Cartão de Crédito;4
+3420;43322;Home Theater JBL Bar 500;Eletrodomésticos & TV;5;1801;9005;0,15;7654,25;Nordeste;Marketplace;Entregue;AL;1188,66;5943,3;1710,95;0,223529412;92;Feminino;50+;151;6;Correios;Voucher;3
+3424;44692;Console Nintendo Switch OLED;Eletrodomésticos & TV;10;702;7020;0,15;5967;Nordeste;Marketplace;Entregue;AL;491,4;4914;1053;0,176470588;35;Feminino;30-49;15;3;Correios;PIX;3
+3429;45398;Samsung Galaxy Z Fold 6;Celulares;4;4757;19028;0;19028;Nordeste;Online;Entregue;AL;2473,64;9894,56;9133,44;0,48;35;Não Informado;30-49;175;3;Correios;Cartão de Crédito;1
+3437;45304;Console Xbox Series S 512GB;Eletrodomésticos & TV;7;1922;13454;0,05;12781,3;Nordeste;Marketplace;Entregue;AL;1076,32;7534,24;5247,06;0,410526316;53;Não Informado;50+;135;17;TransFrete;Voucher;3
+3499;45103;Mini Projetor Portatil Samsung The Freestyle;Eletrodomésticos & TV;7;1461;10227;0,1;9204,3;Nordeste;Marketplace;Entregue;AL;803,55;5624,85;3579,45;0,388888889;67;Não Informado;50+;106;21;TransFrete;Cartão de Crédito;1
+3508;44087;Caixa de Som JBL Flip 6;Eletrodomésticos & TV;3;2388;7164;0,05;6805,8;Nordeste;Loja Física;Entregue;AL;1504,44;4513,32;2292,48;0,336842105;32;Masculino;30-49;178;14;LogTech Express;Cartão de Crédito;5
+3539;43328;Oppo Reno 12 Pro;Celulares;9;821;7389;0,15;6280,65;Nordeste;Loja Física;Em trânsito;AL;509,02;4581,18;1699,47;0,270588235;27;Não Informado;18-29;119;22;Correios;Voucher;5
+3545;42793;Camera de Seguranca Intelbras IM3;Eletrodomésticos & TV;5;2791;13955;0;13955;Nordeste;Loja Física;Em trânsito;AL;1758,33;8791,65;5163,35;0,37;64;Não Informado;50+;27;23;LogTech Express;Cartão de Crédito;4
+3553;43785;Soundbar Samsung HW-Q600C;Eletrodomésticos & TV;7;1726;12082;0,1;10873,8;Nordeste;Online;Entregue;AL;1035,6;7249,2;3624,6;0,333333333;93;Masculino;50+;173;15;Correios;Boleto;4
+3565;45902;Samsung Galaxy Z Flip 6;Celulares;9;4405;39645;0,05;37662,75;Nordeste;Marketplace;Entregue;AL;2819,2;25372,8;12289,95;0,326315789;91;Masculino;50+;127;3;Correios;Boleto;2
+3567;43986;Nothing Phone (2a);Celulares;9;4135;37215;0,15;31632,75;Nordeste;Loja Física;Em trânsito;AL;1819,4;16374,6;15258,15;0,482352941;38;Feminino;30-49;69;25;LogTech Express;PIX;1
+3570;43676;Tablet Lenovo Tab P12;Computadores;2;4235;8470;0,05;8046,5;Nordeste;Online;Entregue;AL;2922,15;5844,3;2202,2;0,273684211;53;Feminino;50+;25;19;Correios;Cartão de Crédito;1
+3602;43429;iPhone 15 Pro;Celulares;3;1390;4170;0,05;3961,5;Nordeste;Online;Entregue;AL;820,1;2460,3;1501,2;0,378947368;72;Não Informado;50+;128;14;LogTech Express;Cartão de Crédito;2
+3620;45422;Mouse Logitech Pebble M350;Acessórios;9;184;1656;0;1656;Nordeste;Loja Física;Entregue;AL;75,44;678,96;977,04;0,59;81;Não Informado;50+;33;9;LogTech Express;Cartão de Crédito;1
+3660;43343;Teclado Sem Fio Logitech K380;Acessórios;4;638;2552;0;2552;Nordeste;Online;Entregue;AL;433,84;1735,36;816,64;0,32;19;Masculino;18-29;21;25;Correios;Cartão de Crédito;1
+3723;44159;Smart TV TCL QLED 55;Eletrodomésticos & TV;4;4970;19880;0;19880;Nordeste;Marketplace;Entregue;AL;2783,2;11132,8;8747,2;0,44;81;Não Informado;50+;122;7;LogTech Express;Cartão de Crédito;2
+3736;42839;Amazon Fire TV Stick Lite;Eletrodomésticos & TV;1;2816;2816;0,1;2534,4;Nordeste;Loja Física;Em trânsito;AL;1745,92;1745,92;788,48;0,311111111;55;Não Informado;50+;101;25;LogTech Express;Boleto;2
+3750;43829;Samsung Galaxy S25 FE;Celulares;2;1742;3484;0;3484;Nordeste;Online;Entregue;AL;731,64;1463,28;2020,72;0,58;26;Masculino;18-29;164;3;Correios;Boleto;5
+3756;44591;Smartwatch Apple Watch Series 10;Eletrodomésticos & TV;2;2381;4762;0;4762;Nordeste;Loja Física;Cancelado;AL;1428,6;2857,2;1904,8;0,4;19;Feminino;18-29;41;0;TransFrete;PIX;3
+3774;43744;Google Pixel 11 Pro;Celulares;1;657;657;0,15;558,45;Nordeste;Loja Física;Cancelado;AL;275,94;275,94;282,51;0,505882353;46;Masculino;30-49;171;0;TransFrete;PIX;4
+3782;43844;Caixa de Som JBL Essential 2;Eletrodomésticos & TV;5;3643;18215;0,15;15482,75;Nordeste;Marketplace;Entregue;AL;1857,93;9289,65;6193,1;0,4;65;Masculino;50+;95;12;LogTech Express;Cartão de Crédito;4
+3847;42929;Amazon Kindle 11ª Geracao;Computadores;3;3672;11016;0,1;9914,4;Nordeste;Online;Entregue;AL;2386,8;7160,4;2754;0,277777778;48;Não Informado;30-49;162;8;TransFrete;Boleto;1
+3873;45940;Honor Magic 6 Pro;Celulares;3;203;609;0,1;548,1;Nordeste;Marketplace;Em trânsito;AL;103,53;310,59;237,51;0,433333333;92;Feminino;50+;103;14;LogTech Express;Voucher;3
+3918;44831;Google Chromecast com Google TV 4K;Eletrodomésticos & TV;7;1774;12418;0;12418;Nordeste;Marketplace;Em trânsito;AL;1046,66;7326,62;5091,38;0,41;82;Feminino;50+;121;2;TransFrete;Cartão de Crédito;2
+3932;43654;Notebook Acer Swift Go;Computadores;10;4647;46470;0,05;44146,5;Nordeste;Online;Entregue;AL;2044,68;20446,8;23699,7;0,536842105;93;Masculino;50+;163;13;LogTech Express;Boleto;5
+3959;42826;Home Theater JBL Bar 500;Eletrodomésticos & TV;10;940;9400;0,05;8930;Nordeste;Online;Cancelado;AL;564;5640;3290;0,368421053;35;Feminino;30-49;44;0;TransFrete;PIX;5
+3967;43921;Samsung Galaxy A15;Celulares;1;1082;1082;0,05;1027,9;Nordeste;Loja Física;Em trânsito;AL;541;541;486,9;0,473684211;63;Masculino;50+;45;24;Correios;Boleto;5
+3969;43351;Fone Edifier W820NB Plus;Acessórios;10;3096;30960;0;30960;Nordeste;Loja Física;Entregue;AL;1362,24;13622,4;17337,6;0,56;91;Não Informado;50+;58;3;LogTech Express;PIX;4
+3994;44312;Motorola Edge 50 Neo;Celulares;1;2858;2858;0,15;2429,3;Nordeste;Loja Física;Cancelado;AL;1600,48;1600,48;828,82;0,341176471;30;Feminino;30-49;47;0;Correios;Boleto;5
+4015;45795;Monitor ASUS ProArt 27;Computadores;1;3640;3640;0,15;3094;Nordeste;Online;Entregue;AL;2002;2002;1092;0,352941176;25;Masculino;18-29;22;13;TransFrete;Boleto;2
+4041;45160;Asus ROG Phone 9;Celulares;1;1591;1591;0,15;1352,35;Nordeste;Loja Física;Entregue;AL;859,14;859,14;493,21;0,364705882;36;Feminino;30-49;125;13;LogTech Express;Boleto;5
+4106;44784;Filtro de Linha iClamper Energia 5;Acessórios;8;2737;21896;0;21896;Nordeste;Marketplace;Cancelado;AL;1888,53;15108,24;6787,76;0,31;25;Não Informado;18-29;16;0;Correios;PIX;1
+4145;44871;iPhone 14 Pro;Celulares;6;4198;25188;0,1;22669,2;Nordeste;Marketplace;Cancelado;AL;2644,74;15868,44;6800,76;0,3;30;Feminino;30-49;176;0;Correios;Cartão de Crédito;2
+4210;44327;Tablet Vaio TL10;Computadores;3;4006;12018;0,1;10816,2;Nordeste;Loja Física;Entregue;AL;2163,24;6489,72;4326,48;0,4;79;Masculino;50+;47;3;Correios;PIX;4
+4225;45720;Google Chromecast com Google TV 4K;Eletrodomésticos & TV;1;4435;4435;0;4435;Nordeste;Loja Física;Em trânsito;AL;2527,95;2527,95;1907,05;0,43;19;Não Informado;18-29;69;16;TransFrete;Cartão de Crédito;3
+4231;44037;Console Nintendo Switch OLED;Eletrodomésticos & TV;2;3483;6966;0,15;5921,1;Nordeste;Marketplace;Cancelado;AL;1428,03;2856,06;3065,04;0,517647059;27;Feminino;18-29;51;0;TransFrete;Cartão de Crédito;5
+4251;44838;Camera de Seguranca Xiaomi 360 2K;Eletrodomésticos & TV;8;1828;14624;0;14624;Nordeste;Online;Cancelado;AL;767,76;6142,08;8481,92;0,58;29;Feminino;18-29;64;0;LogTech Express;Cartão de Crédito;3
+4268;43418;Apple TV 4K 64GB;Eletrodomésticos & TV;3;4780;14340;0,1;12906;Nordeste;Online;Em trânsito;AL;3250,4;9751,2;3154,8;0,244444444;58;Não Informado;50+;135;16;TransFrete;Boleto;2
+4277;44629;Nokia G22;Celulares;8;3666;29328;0,05;27861,6;Nordeste;Marketplace;Entregue;AL;2309,58;18476,64;9384,96;0,336842105;20;Feminino;18-29;17;16;TransFrete;Boleto;2
+4289;44129;Xiaomi Redmi Note 13;Celulares;4;3185;12740;0,1;11466;Nordeste;Marketplace;Entregue;AL;2070,25;8281;3185;0,277777778;22;Masculino;18-29;96;22;LogTech Express;PIX;5
+4307;45274;POCO M6 Pro;Celulares;7;1942;13594;0,05;12914,3;Nordeste;Online;Entregue;AL;1165,2;8156,4;4757,9;0,368421053;42;Masculino;30-49;62;3;LogTech Express;Boleto;5
+4312;44404;Tablet Vaio TL10;Computadores;8;3295;26360;0,1;23724;Nordeste;Loja Física;Entregue;AL;1318;10544;13180;0,555555556;76;Masculino;50+;153;23;Correios;Cartão de Crédito;3
+4316;45755;Samsung Galaxy A15;Celulares;2;4637;9274;0,1;8346,6;Nordeste;Loja Física;Entregue;AL;2735,83;5471,66;2874,94;0,344444444;56;Não Informado;50+;63;25;TransFrete;PIX;5
+4351;43114;Smartwatch Xiaomi Redmi Watch 5;Eletrodomésticos & TV;8;2904;23232;0,1;20908,8;Nordeste;Marketplace;Cancelado;AL;1190,64;9525,12;11383,68;0,544444444;28;Masculino;18-29;57;0;TransFrete;Voucher;3
+4393;45245;Controle Nintendo Switch Pro;Eletrodomésticos & TV;4;1910;7640;0,05;7258;Nordeste;Marketplace;Entregue;AL;1298,8;5195,2;2062,8;0,284210526;30;Não Informado;30-49;116;15;LogTech Express;PIX;1
+4402;45108;Samsung Galaxy Z Flip 5;Celulares;7;1958;13706;0,15;11650,1;Nordeste;Loja Física;Em trânsito;AL;1096,48;7675,36;3974,74;0,341176471;91;Não Informado;50+;105;21;Correios;Voucher;1
+4416;44048;Fone Bluetooth JBL Tune 520BT;Acessórios;5;2929;14645;0,1;13180,5;Nordeste;Online;Cancelado;AL;1581,66;7908,3;5272,2;0,4;62;Feminino;50+;89;0;Correios;Cartão de Crédito;4
+4423;45740;Samsung Galaxy A56 5G;Celulares;1;193;193;0,15;164,05;Nordeste;Marketplace;Cancelado;AL;100,36;100,36;63,69;0,388235294;66;Feminino;50+;27;0;LogTech Express;Voucher;4
+4463;43538;Cabo Lightning Baseus;Acessórios;4;4029;16116;0,1;14504,4;Nordeste;Loja Física;Cancelado;AL;2820,3;11281,2;3223,2;0,222222222;43;Masculino;30-49;45;0;TransFrete;Voucher;3
+4464;44644;Caixa de Som JBL Boombox 3;Eletrodomésticos & TV;5;2470;12350;0;12350;Nordeste;Online;Entregue;AL;1556,1;7780,5;4569,5;0,37;92;Não Informado;50+;107;5;LogTech Express;Voucher;3
+4528;45754;Fone Bluetooth JBL Wave Flex;Acessórios;7;3984;27888;0,05;26493,6;Nordeste;Marketplace;Entregue;AL;2390,4;16732,8;9760,8;0,368421053;61;Feminino;50+;24;8;TransFrete;Cartão de Crédito;2
+4537;43280;Notebook HP 256 G9;Computadores;10;4949;49490;0,1;44541;Nordeste;Online;Em trânsito;AL;2870,42;28704,2;15836,8;0,355555556;20;Feminino;18-29;137;25;TransFrete;Cartão de Crédito;1
+4557;45093;Camera de Seguranca Xiaomi 360 2K;Eletrodomésticos & TV;1;2162;2162;0;2162;Nordeste;Marketplace;Cancelado;AL;886,42;886,42;1275,58;0,59;64;Masculino;50+;81;0;TransFrete;Boleto;4
+4602;44139;Fone Edifier W820NB Plus;Acessórios;1;1526;1526;0,1;1373,4;Nordeste;Loja Física;Cancelado;AL;763;763;610,4;0,444444444;64;Feminino;50+;117;0;Correios;Voucher;5
+4664;43102;Notebook Gamer Acer Nitro V16;Computadores;3;819;2457;0,15;2088,45;Nordeste;Loja Física;Cancelado;AL;515,97;1547,91;540,54;0,258823529;84;Não Informado;50+;61;0;Correios;Cartão de Crédito;3
+4684;42926;Xiaomi Redmi A3;Celulares;1;4160;4160;0,05;3952;Nordeste;Online;Em trânsito;AL;2787,2;2787,2;1164,8;0,294736842;34;Masculino;30-49;176;20;TransFrete;Voucher;4
+4735;45680;Caixa de Som Bluetooth LG XBOOM Go;Eletrodomésticos & TV;1;4453;4453;0,1;4007,7;Nordeste;Online;Entregue;AL;2226,5;2226,5;1781,2;0,444444444;40;Feminino;30-49;50;10;Correios;Boleto;1
+4791;44003;Placa de Video RTX 4060 Ti;Computadores;4;4108;16432;0,15;13967,2;Nordeste;Loja Física;Entregue;AL;2218,32;8873,28;5093,92;0,364705882;89;Não Informado;50+;162;17;LogTech Express;Boleto;4
+4879;42764;Nothing Phone (2a);Celulares;4;4025;16100;0,15;13685;Nordeste;Marketplace;Entregue;AL;2817,5;11270;2415;0,176470588;51;Não Informado;50+;139;22;Correios;Cartão de Crédito;2
+4915;44504;Vivo V40;Celulares;4;4807;19228;0,1;17305,2;Nordeste;Online;Em trânsito;AL;2451,57;9806,28;7498,92;0,433333333;68;Não Informado;50+;148;15;TransFrete;Voucher;5
+4981;44241;Carregador de Pilhas Sony com 4 Pilhas;Eletrodomésticos & TV;7;1454;10178;0,1;9160,2;Nordeste;Marketplace;Cancelado;AL;668,84;4681,88;4478,32;0,488888889;56;Feminino;50+;168;0;LogTech Express;Voucher;4
+5024;45687;Samsung Galaxy Buds3 Pro;Acessórios;8;1414;11312;0,05;10746,4;Nordeste;Marketplace;Entregue;AL;763,56;6108,48;4637,92;0,431578947;36;Feminino;30-49;70;15;LogTech Express;PIX;2
+5092;45285;Monitor Gamer LG UltraGear 24;Computadores;10;2856;28560;0;28560;Nordeste;Loja Física;Entregue;AL;1970,64;19706,4;8853,6;0,31;95;Não Informado;50+;56;10;TransFrete;Cartão de Crédito;5
+5171;44240;Samsung Galaxy Buds3 Pro;Acessórios;1;435;435;0;435;Nordeste;Marketplace;Entregue;AL;204,45;204,45;230,55;0,53;80;Masculino;50+;159;19;LogTech Express;Voucher;3
+5194;45861;Roku Express HD;Eletrodomésticos & TV;8;1238;9904;0;9904;Nordeste;Loja Física;Em trânsito;AL;619;4952;4952;0,5;90;Não Informado;50+;31;6;TransFrete;PIX;5
+5223;45617;Apple TV 4K 64GB;Eletrodomésticos & TV;1;705;705;0,05;669,75;Nordeste;Marketplace;Cancelado;AL;394,8;394,8;274,95;0,410526316;51;Masculino;50+;118;0;Correios;Voucher;5
+5318;43155;Samsung Galaxy M35;Celulares;4;4888;19552;0,1;17596,8;Nordeste;Loja Física;Entregue;AL;3226,08;12904,32;4692,48;0,266666667;48;Não Informado;30-49;59;16;Correios;Cartão de Crédito;4
+5341;43944;Echodot 5ª Geracao com Alexa;Eletrodomésticos & TV;10;1116;11160;0,15;9486;Nordeste;Online;Entregue;AL;636,12;6361,2;3124,8;0,329411765;24;Feminino;18-29;22;6;TransFrete;Voucher;1
+5380;43166;Asus ROG Phone 9;Celulares;3;451;1353;0,1;1217,7;Nordeste;Marketplace;Entregue;AL;184,91;554,73;662,97;0,544444444;68;Masculino;50+;81;9;LogTech Express;Cartão de Crédito;5
+5513;43902;Hub USB-C 7 em 1 Baseus;Acessórios;9;2354;21186;0,15;18008,1;Nordeste;Online;Entregue;AL;1577,18;14194,62;3813,48;0,211764706;91;Feminino;50+;56;7;Correios;PIX;4
+5523;43274;Smartwatch Haylou Solar Lite;Eletrodomésticos & TV;6;2843;17058;0,1;15352,2;Nordeste;Loja Física;Cancelado;AL;1364,64;8187,84;7164,36;0,466666667;46;Feminino;30-49;62;0;TransFrete;Cartão de Crédito;3
+5527;44873;Samsung Galaxy A56 5G;Celulares;6;3146;18876;0,1;16988,4;Nordeste;Loja Física;Em trânsito;AL;1856,14;11136,84;5851,56;0,344444444;70;Feminino;50+;63;8;TransFrete;Boleto;5
+5531;43963;Xiaomi POCO X6 Neo;Celulares;3;3595;10785;0,05;10245,75;Nordeste;Marketplace;Entregue;AL;1473,95;4421,85;5823,9;0,568421053;46;Não Informado;30-49;27;15;TransFrete;Cartão de Crédito;4
+5545;42925;Smart TV Samsung Crystal UHD 50;Eletrodomésticos & TV;6;423;2538;0,15;2157,3;Nordeste;Marketplace;Em trânsito;AL;291,87;1751,22;406,08;0,188235294;33;Não Informado;30-49;76;15;Correios;Boleto;4
+5607;43893;Console Nintendo Switch OLED;Eletrodomésticos & TV;2;3176;6352;0,15;5399,2;Nordeste;Online;Entregue;AL;2127,92;4255,84;1143,36;0,211764706;20;Feminino;18-29;74;12;LogTech Express;Boleto;5
+5608;45906;MacBook Pro M4;Computadores;1;3299;3299;0,05;3134,05;Nordeste;Loja Física;Entregue;AL;2276,31;2276,31;857,74;0,273684211;33;Feminino;30-49;173;5;Correios;PIX;1
+5610;45042;Smart TV Philips Ambilight 55;Eletrodomésticos & TV;3;4916;14748;0,05;14010,6;Nordeste;Marketplace;Em trânsito;AL;2802,12;8406,36;5604,24;0,4;92;Masculino;50+;61;24;LogTech Express;PIX;1
+5621;45537;Xiaomi Redmi Note 14 Pro;Celulares;4;1058;4232;0;4232;Nordeste;Loja Física;Em trânsito;AL;603,06;2412,24;1819,76;0,43;28;Não Informado;18-29;53;22;Correios;Boleto;1
+5654;44297;Motorola Moto G54;Celulares;5;4282;21410;0;21410;Nordeste;Marketplace;Cancelado;AL;2697,66;13488,3;7921,7;0,37;22;Não Informado;18-29;153;0;Correios;Boleto;3
+5802;45708;Apple AirPods Pro 2;Acessórios;6;3468;20808;0;20808;Nordeste;Marketplace;Entregue;AL;1525,92;9155,52;11652,48;0,56;21;Masculino;18-29;92;14;LogTech Express;Cartão de Crédito;5
+5828;43865;Roteador Wi-Fi 6 TP-Link Archer AX12;Eletrodomésticos & TV;7;85;595;0,05;565,25;Nordeste;Loja Física;Em trânsito;AL;38,25;267,75;297,5;0,526315789;73;Feminino;50+;132;9;Correios;Cartão de Crédito;1
+5869;45025;Apple AirPods Pro 2;Acessórios;5;1708;8540;0,05;8113;Nordeste;Marketplace;Em trânsito;AL;854;4270;3843;0,473684211;37;Feminino;30-49;19;14;LogTech Express;Boleto;2
+5898;44586;Notebook ASUS Zenbook 14 OLED;Computadores;2;4388;8776;0,1;7898,4;Nordeste;Marketplace;Entregue;AL;2764,44;5528,88;2369,52;0,3;91;Feminino;50+;58;7;TransFrete;Boleto;3
+5958;44343;Samsung Galaxy Z Fold 6;Celulares;1;4022;4022;0,05;3820,9;Nordeste;Online;Entregue;AL;1649,02;1649,02;2171,88;0,568421053;89;Não Informado;50+;91;21;Correios;PIX;3
+5962;42965;Monitor Samsung T350 24;Computadores;4;4063;16252;0,15;13814,2;Nordeste;Marketplace;Entregue;AL;2600,32;10401,28;3412,92;0,247058824;62;Não Informado;50+;34;14;LogTech Express;Boleto;3
+5985;42806;Amazon Kindle Paperwhite 16GB;Computadores;10;127;1270;0,05;1206,5;Nordeste;Online;Entregue;AL;55,88;558,8;647,7;0,536842105;76;Feminino;50+;141;8;TransFrete;PIX;5
+5986;45421;Fritadeira Air Fryer Philips Walita Essential;Eletrodomésticos & TV;1;2430;2430;0,15;2065,5;Nordeste;Loja Física;Entregue;AL;1166,4;1166,4;899,1;0,435294118;18;Masculino;18-29;135;15;TransFrete;Boleto;1
+5987;42923;Notebook Gamer ASUS TUF A15;Computadores;8;3479;27832;0;27832;Nordeste;Online;Cancelado;AL;2226,56;17812,48;10019,52;0,36;69;Não Informado;50+;126;0;LogTech Express;Cartão de Crédito;1
+5989;46002;SSD Crucial T500 4TB;Computadores;3;2892;8676;0,15;7374,6;Nordeste;Marketplace;Cancelado;AL;2024,4;6073,2;1301,4;0,176470588;20;Feminino;18-29;130;0;Correios;Boleto;2
+5993;44694;Xiaomi POCO X7 Pro;Celulares;7;4281;29967;0;29967;Nordeste;Loja Física;Em trânsito;AL;2354,55;16481,85;13485,15;0,45;32;Feminino;30-49;97;12;TransFrete;Boleto;3
+6001;45470;Headset Gamer Corsair HS55;Acessórios;2;1170;2340;0,1;2106;Nordeste;Online;Entregue;AL;608,4;1216,8;889,2;0,422222222;82;Feminino;50+;93;17;TransFrete;Boleto;1
+6032;44222;Asus ROG Phone 9;Celulares;1;579;579;0,05;550,05;Nordeste;Marketplace;Cancelado;AL;248,97;248,97;301,08;0,547368421;68;Não Informado;50+;38;0;LogTech Express;Voucher;3
+6091;45506;Fone Lenovo Thinkplus LP40;Acessórios;6;1830;10980;0;10980;Nordeste;Loja Física;Em trânsito;AL;786,9;4721,4;6258,6;0,57;82;Masculino;50+;80;18;LogTech Express;Boleto;5
+6102;44656;iPhone 15 Pro;Celulares;7;2966;20762;0,15;17647,7;Nordeste;Online;Entregue;AL;1898,24;13287,68;4360,02;0,247058824;41;Masculino;30-49;87;19;TransFrete;Voucher;2
+6105;44280;Fone Edifier W820NB Plus;Acessórios;10;504;5040;0,1;4536;Nordeste;Marketplace;Entregue;AL;211,68;2116,8;2419,2;0,533333333;90;Masculino;50+;59;16;TransFrete;Cartão de Crédito;3
+6111;44981;Fechadura Digital Intelbras FR 101;Eletrodomésticos & TV;5;1046;5230;0;5230;Nordeste;Marketplace;Em trânsito;AL;575,3;2876,5;2353,5;0,45;45;Não Informado;30-49;74;19;Correios;PIX;2
+6113;44682;Fone Xiaomi Redmi Buds 5 Pro;Acessórios;8;1254;10032;0;10032;Nordeste;Marketplace;Entregue;AL;639,54;5116,32;4915,68;0,49;36;Masculino;30-49;178;21;Correios;Voucher;5
+6170;43479;Pilha Alcalina Panasonic AA Lote com 16;Eletrodomésticos & TV;10;255;2550;0,1;2295;Nordeste;Online;Entregue;AL;104,55;1045,5;1249,5;0,544444444;66;Não Informado;50+;133;7;TransFrete;Cartão de Crédito;5
+6265;44015;Fone Ambie Sound Earcuffs;Acessórios;1;3164;3164;0;3164;Nordeste;Online;Entregue;AL;1423,8;1423,8;1740,2;0,55;80;Feminino;50+;171;6;LogTech Express;Boleto;4
+6270;44460;SSD Crucial T500 2TB;Computadores;10;1412;14120;0,15;12002;Nordeste;Loja Física;Em trânsito;AL;818,96;8189,6;3812,4;0,317647059;33;Não Informado;30-49;145;11;Correios;Voucher;1
+6309;43771;Xiaomi POCO X7 Pro;Celulares;1;2914;2914;0,15;2476,9;Nordeste;Marketplace;Em trânsito;AL;1777,54;1777,54;699,36;0,282352941;21;Feminino;18-29;161;25;LogTech Express;Cartão de Crédito;5
+6325;42817;Motorola Edge 50 Neo;Celulares;5;3090;15450;0,05;14677,5;Nordeste;Online;Entregue;AL;1328,7;6643,5;8034;0,547368421;80;Feminino;50+;17;20;TransFrete;Cartão de Crédito;5
+6351;44006;Fone Lenovo Thinkplus LP40;Acessórios;8;854;6832;0;6832;Nordeste;Marketplace;Entregue;AL;555,1;4440,8;2391,2;0,35;71;Masculino;50+;45;12;Correios;Cartão de Crédito;2
+6358;45142;Caixa de Som JBL Essential 2;Eletrodomésticos & TV;3;3996;11988;0,1;10789,2;Nordeste;Loja Física;Cancelado;AL;2557,44;7672,32;3116,88;0,288888889;40;Não Informado;30-49;54;0;TransFrete;Cartão de Crédito;4
+6359;45667;Drone DJI Avata 2;Eletrodomésticos & TV;4;4795;19180;0;19180;Nordeste;Online;Entregue;AL;3116,75;12467;6713;0,35;39;Feminino;30-49;180;5;LogTech Express;Voucher;5
+6397;44971;Carregador Portatil Baseus Power Bank 30000mAh;Acessórios;10;1828;18280;0,1;16452;Nordeste;Online;Em trânsito;AL;895,72;8957,2;7494,8;0,455555556;86;Feminino;50+;46;14;LogTech Express;PIX;5
+6412;44262;iPhone 13 128GB;Celulares;9;825;7425;0,05;7053,75;Nordeste;Loja Física;Em trânsito;AL;511,5;4603,5;2450,25;0,347368421;72;Masculino;50+;126;8;LogTech Express;Voucher;4
+6416;43599;iPhone 13 128GB;Celulares;4;1651;6604;0;6604;Nordeste;Online;Cancelado;AL;660,4;2641,6;3962,4;0,6;35;Masculino;30-49;54;0;TransFrete;Cartão de Crédito;3
+6424;45527;Fone Philips TAT1108 TWS;Acessórios;4;2376;9504;0,1;8553,6;Nordeste;Marketplace;Em trânsito;AL;1615,68;6462,72;2090,88;0,244444444;49;Não Informado;30-49;141;2;LogTech Express;Voucher;2
+6429;45766;Camera de Seguranca Xiaomi 360 2K;Eletrodomésticos & TV;6;2591;15546;0;15546;Nordeste;Online;Entregue;AL;1450,96;8705,76;6840,24;0,44;27;Masculino;18-29;160;13;Correios;Boleto;2
+6453;42817;Mouse Gamer Logitech G203;Acessórios;7;1221;8547;0,1;7692,3;Nordeste;Marketplace;Cancelado;AL;830,28;5811,96;1880,34;0,244444444;21;Não Informado;18-29;93;0;Correios;Boleto;1
+6458;44204;iPad 10ª Geracao;Computadores;10;2998;29980;0,05;28481;Nordeste;Loja Física;Em trânsito;AL;1948,7;19487;8994;0,315789474;55;Feminino;50+;157;17;LogTech Express;Boleto;4
+6462;43818;iPad Pro M4;Computadores;1;4778;4778;0,1;4300,2;Nordeste;Online;Entregue;AL;2197,88;2197,88;2102,32;0,488888889;77;Feminino;50+;157;2;LogTech Express;PIX;4
+6466;45660;Teclado e Mouse Sem Fio Dell KM3322W;Acessórios;10;1681;16810;0,15;14288,5;Nordeste;Online;Em trânsito;AL;890,93;8909,3;5379,2;0,376470588;20;Feminino;18-29;63;2;Correios;Boleto;2
+6484;44657;Mini Projetor Portatil Samsung The Freestyle;Eletrodomésticos & TV;9;840;7560;0,05;7182;Nordeste;Loja Física;Em trânsito;AL;352,8;3175,2;4006,8;0,557894737;19;Feminino;18-29;24;12;TransFrete;Voucher;3
+6493;43623;Headphone Anker Soundcore Q30;Acessórios;10;4735;47350;0,05;44982,5;Nordeste;Marketplace;Entregue;AL;2272,8;22728;22254,5;0,494736842;83;Feminino;50+;126;15;TransFrete;PIX;3
+6510;43168;iPhone 15 Plus;Celulares;4;762;3048;0,15;2590,8;Nordeste;Marketplace;Em trânsito;AL;434,34;1737,36;853,44;0,329411765;40;Não Informado;30-49;97;10;Correios;Voucher;5
+6525;45567;Home Theater JBL Bar 500;Eletrodomésticos & TV;1;1773;1773;0,15;1507,05;Nordeste;Online;Em trânsito;AL;975,15;975,15;531,9;0,352941176;91;Não Informado;50+;131;18;Correios;Cartão de Crédito;5
+6561;43964;Fritadeira Air Fryer Mondial Family 4L;Eletrodomésticos & TV;5;611;3055;0,15;2596,75;Nordeste;Marketplace;Em trânsito;AL;378,82;1894,1;702,65;0,270588235;28;Masculino;18-29;18;8;Correios;Boleto;5
+6625;45590;Camera de Seguranca Xiaomi 360 2K;Eletrodomésticos & TV;8;4142;33136;0,05;31479,2;Nordeste;Loja Física;Cancelado;AL;2485,2;19881,6;11597,6;0,368421053;24;Feminino;18-29;88;0;LogTech Express;Cartão de Crédito;4
+6634;45163;iPhone SE 4;Celulares;4;1691;6764;0,05;6425,8;Nordeste;Loja Física;Entregue;AL;1099,15;4396,6;2029,2;0,315789474;70;Feminino;50+;79;15;LogTech Express;Cartão de Crédito;4
+6639;43305;Amazon Fire TV Stick Lite;Eletrodomésticos & TV;9;2608;23472;0,1;21124,8;Nordeste;Online;Entregue;AL;1330,08;11970,72;9154,08;0,433333333;43;Não Informado;30-49;99;6;Correios;Boleto;3
+6641;43378;Samsung Galaxy S26 Ultra;Celulares;6;3732;22392;0,15;19033,2;Nordeste;Marketplace;Em trânsito;AL;2201,88;13211,28;5821,92;0,305882353;46;Não Informado;30-49;180;22;TransFrete;PIX;2
+6659;45280;Smartwatch Samsung Galaxy Watch 7;Eletrodomésticos & TV;9;1304;11736;0;11736;Nordeste;Loja Física;Cancelado;AL;547,68;4929,12;6806,88;0,58;50;Masculino;50+;115;0;Correios;Boleto;1
+6688;45856;Fone Bluetooth JBL Wave Flex;Acessórios;8;1570;12560;0,05;11932;Nordeste;Online;Cancelado;AL;973,4;7787,2;4144,8;0,347368421;87;Feminino;50+;145;0;TransFrete;Cartão de Crédito;5
+6696;44395;Realme C67;Celulares;4;1854;7416;0,1;6674,4;Nordeste;Loja Física;Cancelado;AL;1149,48;4597,92;2076,48;0,311111111;65;Não Informado;50+;45;0;LogTech Express;Voucher;1
+6704;43315;iPad Pro M4;Computadores;2;4882;9764;0,1;8787,6;Nordeste;Marketplace;Em trânsito;AL;3319,76;6639,52;2148,08;0,244444444;33;Feminino;30-49;102;15;Correios;Voucher;3
+6736;43659;Headphone Sony WH-1000XM5;Acessórios;4;1028;4112;0,1;3700,8;Nordeste;Online;Cancelado;AL;514;2056;1644,8;0,444444444;43;Masculino;30-49;121;0;TransFrete;Cartão de Crédito;3
+6779;43289;Realme Note 50;Celulares;5;1063;5315;0,1;4783,5;Nordeste;Loja Física;Entregue;AL;425,2;2126;2657,5;0,555555556;40;Feminino;30-49;117;22;LogTech Express;Cartão de Crédito;4
+6821;42799;Notebook Acer Swift Go;Computadores;6;3450;20700;0;20700;Nordeste;Online;Em trânsito;AL;2035,5;12213;8487;0,41;42;Não Informado;30-49;95;12;Correios;PIX;1
+6839;44489;Smartwatch Xiaomi Redmi Watch 5;Eletrodomésticos & TV;4;1549;6196;0,1;5576,4;Nordeste;Marketplace;Entregue;AL;944,89;3779,56;1796,84;0,322222222;28;Feminino;18-29;177;19;TransFrete;Voucher;3
+6878;44126;Fechadura Digital Intelbras FR 101;Eletrodomésticos & TV;1;2779;2779;0,05;2640,05;Nordeste;Marketplace;Em trânsito;AL;1361,71;1361,71;1278,34;0,484210526;44;Masculino;30-49;96;7;Correios;Cartão de Crédito;2
+6886;44628;MacBook Air M3;Computadores;6;561;3366;0;3366;Nordeste;Marketplace;Cancelado;AL;230,01;1380,06;1985,94;0,59;75;Não Informado;50+;32;0;Correios;Voucher;5
+6894;43178;Samsung Galaxy A56 5G;Celulares;2;2550;5100;0,05;4845;Nordeste;Loja Física;Cancelado;AL;1096,5;2193;2652;0,547368421;82;Não Informado;50+;34;0;TransFrete;Voucher;5
+6895;43437;Smartwatch Samsung Galaxy Watch 7;Eletrodomésticos & TV;1;4017;4017;0;4017;Nordeste;Online;Entregue;AL;1928,16;1928,16;2088,84;0,52;39;Feminino;30-49;23;22;TransFrete;Boleto;2
+6913;43602;Monitor Gamer LG UltraGear 24;Computadores;3;602;1806;0,1;1625,4;Nordeste;Online;Cancelado;AL;385,28;1155,84;469,56;0,288888889;42;Feminino;30-49;156;0;Correios;Boleto;4
+6980;43886;Infinix Hot 40i;Celulares;5;477;2385;0,05;2265,75;Nordeste;Online;Entregue;AL;305,28;1526,4;739,35;0,326315789;67;Masculino;50+;107;8;TransFrete;Voucher;3
+6996;44478;Soundbar LG S40Q;Eletrodomésticos & TV;7;2545;17815;0,15;15142,75;Nordeste;Marketplace;Entregue;AL;1756,05;12292,35;2850,4;0,188235294;91;Feminino;50+;165;21;TransFrete;PIX;2
+7005;42892;POCO M6 Pro;Celulares;2;1956;3912;0,1;3520,8;Nordeste;Marketplace;Em trânsito;AL;1193,16;2386,32;1134,48;0,322222222;23;Masculino;18-29;152;8;TransFrete;PIX;1
+7013;45177;Nothing Phone (2a);Celulares;9;1656;14904;0,1;13413,6;Nordeste;Loja Física;Entregue;AL;712,08;6408,72;7004,88;0,522222222;72;Masculino;50+;34;5;Correios;Boleto;1
+7019;43474;Notebook Gamer Dell G15;Computadores;5;2248;11240;0;11240;Nordeste;Online;Em trânsito;AL;1438,72;7193,6;4046,4;0,36;80;Masculino;50+;130;13;Correios;Cartão de Crédito;1
+7073;43055;Xiaomi POCO F6;Celulares;10;3358;33580;0,05;31901;Nordeste;Online;Cancelado;AL;1914,06;19140,6;12760,4;0,4;52;Masculino;50+;157;0;TransFrete;Boleto;2
+7075;43141;Pilha Recarregavel Duracell AAA;Eletrodomésticos & TV;1;3011;3011;0,1;2709,9;Nordeste;Loja Física;Entregue;AL;1776,49;1776,49;933,41;0,344444444;75;Masculino;50+;112;22;TransFrete;PIX;1
+7145;44441;Notebook HP ProBook 440;Computadores;7;4915;34405;0,15;29244,25;Nordeste;Marketplace;Entregue;AL;1966;13762;15482,25;0,529411765;73;Masculino;50+;83;18;Correios;Voucher;1
+7153;42812;Robo Aspirador de Po Liectroux XR500;Eletrodomésticos & TV;8;2128;17024;0,15;14470,4;Nordeste;Marketplace;Cancelado;AL;1298,08;10384,64;4085,76;0,282352941;71;Não Informado;50+;70;0;Correios;Boleto;1
+7162;43876;Headset Gamer Corsair HS55;Acessórios;5;2248;11240;0,1;10116;Nordeste;Marketplace;Entregue;AL;989,12;4945,6;5170,4;0,511111111;34;Masculino;30-49;15;24;LogTech Express;Cartão de Crédito;5
+7166;45636;Smart TV Samsung Crystal UHD 50;Eletrodomésticos & TV;2;4373;8746;0;8746;Nordeste;Online;Cancelado;AL;1880,39;3760,78;4985,22;0,57;39;Não Informado;30-49;18;0;LogTech Express;Boleto;2
+7167;45615;Monitor Samsung T350 24;Computadores;4;144;576;0;576;Nordeste;Loja Física;Entregue;AL;90,72;362,88;213,12;0,37;44;Não Informado;30-49;108;3;Correios;Boleto;2
+7173;44365;Liquidificador Philips Walita ProBlend 6;Eletrodomésticos & TV;3;3738;11214;0,15;9531,9;Nordeste;Online;Entregue;AL;2616,6;7849,8;1682,1;0,176470588;48;Masculino;30-49;75;13;Correios;PIX;4
+7182;43175;Controle Xbox Wireless Carbon Black;Eletrodomésticos & TV;9;1066;9594;0,05;9114,3;Nordeste;Loja Física;Entregue;AL;596,96;5372,64;3741,66;0,410526316;45;Não Informado;30-49;111;5;TransFrete;Cartão de Crédito;5
+7208;44665;OnePlus 13R;Celulares;10;3048;30480;0;30480;Nordeste;Loja Física;Em trânsito;AL;1981,2;19812;10668;0,35;24;Masculino;18-29;179;15;TransFrete;PIX;2
+7218;45320;Samsung Galaxy Tab A9+;Computadores;3;2758;8274;0,15;7032,9;Nordeste;Online;Entregue;AL;1489,32;4467,96;2564,94;0,364705882;63;Não Informado;50+;79;9;LogTech Express;PIX;3
+7253;43119;Nothing Phone (2a);Celulares;3;3977;11931;0,1;10737,9;Nordeste;Marketplace;Entregue;AL;2664,59;7993,77;2744,13;0,255555556;27;Não Informado;18-29;134;18;Correios;Voucher;3
+7272;44335;Honor Magic 6 Pro;Celulares;4;1551;6204;0,1;5583,6;Nordeste;Marketplace;Cancelado;AL;806,52;3226,08;2357,52;0,422222222;51;Masculino;50+;77;0;TransFrete;Voucher;5
+7308;44563;Nothing Phone (2a);Celulares;7;1692;11844;0,15;10067,4;Nordeste;Online;Entregue;AL;1167,48;8172,36;1895,04;0,188235294;73;Feminino;50+;120;13;LogTech Express;PIX;3
+7321;43309;Notebook Gamer Acer Nitro V16;Computadores;8;1333;10664;0,1;9597,6;Nordeste;Online;Em trânsito;AL;599,85;4798,8;4798,8;0,5;86;Não Informado;50+;111;24;TransFrete;Voucher;1
+7358;45233;Fone QCY T13 TWS;Acessórios;8;2430;19440;0,15;16524;Nordeste;Marketplace;Entregue;AL;1482,3;11858,4;4665,6;0,282352941;68;Feminino;50+;108;7;TransFrete;Cartão de Crédito;2
+7366;45185;iPhone SE 4;Celulares;5;2395;11975;0;11975;Nordeste;Online;Cancelado;AL;1604,65;8023,25;3951,75;0,33;85;Não Informado;50+;91;0;Correios;Boleto;4
+7385;43544;Fone Edifier W820NB Plus;Acessórios;1;4744;4744;0,15;4032,4;Nordeste;Loja Física;Entregue;AL;3273,36;3273,36;759,04;0,188235294;29;Não Informado;18-29;174;13;Correios;PIX;3
+7390;45655;Fritadeira Air Fryer Mondial Family 4L;Eletrodomésticos & TV;4;2585;10340;0;10340;Nordeste;Loja Física;Em trânsito;AL;1706,1;6824,4;3515,6;0,34;65;Não Informado;50+;131;19;TransFrete;Cartão de Crédito;2
+7410;45215;Xiaomi Redmi Note 13;Celulares;10;3950;39500;0;39500;Nordeste;Marketplace;Entregue;AL;2686;26860;12640;0,32;86;Masculino;50+;178;13;Correios;Boleto;4
+7439;44758;POCO M6 Pro;Celulares;6;2124;12744;0,1;11469,6;Nordeste;Marketplace;Cancelado;AL;913,32;5479,92;5989,68;0,522222222;65;Não Informado;50+;156;0;LogTech Express;Cartão de Crédito;5
+7440;44360;MacBook Air M2;Computadores;9;2924;26316;0,1;23684,4;Nordeste;Online;Em trânsito;AL;2046,8;18421,2;5263,2;0,222222222;46;Feminino;30-49;149;4;Correios;Voucher;5
+7451;45081;Smart Lampada Wi-Fi Positivo Casa Inteligente;Eletrodomésticos & TV;6;1992;11952;0,1;10756,8;Nordeste;Online;Em trânsito;AL;1254,96;7529,76;3227,04;0,3;30;Não Informado;30-49;69;24;Correios;PIX;5
+7456;43153;Apple AirPods 3;Acessórios;3;2866;8598;0,15;7308,3;Nordeste;Loja Física;Entregue;AL;1289,7;3869,1;3439,2;0,470588235;23;Feminino;18-29;162;4;TransFrete;Cartão de Crédito;1
+7517;45552;Tablet Vaio TL10;Computadores;3;2709;8127;0,1;7314,3;Nordeste;Online;Em trânsito;AL;1110,69;3332,07;3982,23;0,544444444;83;Não Informado;50+;77;10;LogTech Express;Boleto;1
+7520;43263;Amazon Kindle Paperwhite 16GB;Computadores;4;4597;18388;0,15;15629,8;Nordeste;Loja Física;Em trânsito;AL;2574,32;10297,28;5332,52;0,341176471;36;Feminino;30-49;58;13;Correios;Voucher;1
+7577;43200;Echo Show 5 com Alexa;Eletrodomésticos & TV;2;4208;8416;0;8416;Nordeste;Loja Física;Entregue;AL;1977,76;3955,52;4460,48;0,53;81;Feminino;50+;167;22;LogTech Express;PIX;2
+7605;45865;Mouse Logitech Pebble M350;Acessórios;8;569;4552;0;4552;Nordeste;Loja Física;Em trânsito;AL;312,95;2503,6;2048,4;0,45;30;Feminino;30-49;136;5;LogTech Express;PIX;3
+7615;42878;Filtro de Linha iClamper Energia 5;Acessórios;8;4212;33696;0,05;32011,2;Nordeste;Online;Em trânsito;AL;2274,48;18195,84;13815,36;0,431578947;33;Não Informado;30-49;159;13;TransFrete;Boleto;5
+7630;43714;MacBook Pro M4;Computadores;7;2011;14077;0,1;12669,3;Nordeste;Loja Física;Em trânsito;AL;1106,05;7742,35;4926,95;0,388888889;51;Masculino;50+;34;20;TransFrete;PIX;5
+7654;43810;Placa de Video RTX 4060 Ti;Computadores;10;2579;25790;0;25790;Nordeste;Loja Física;Entregue;AL;1470,03;14700,3;11089,7;0,43;95;Masculino;50+;160;20;Correios;Boleto;1
+7769;45092;Samsung Galaxy A07;Celulares;3;765;2295;0;2295;Nordeste;Online;Entregue;AL;336,6;1009,8;1285,2;0,56;31;Feminino;30-49;40;19;LogTech Express;Boleto;5
+7812;42989;POCO M6 Pro;Celulares;3;1824;5472;0,1;4924,8;Nordeste;Loja Física;Entregue;AL;966,72;2900,16;2024,64;0,411111111;31;Masculino;30-49;167;21;TransFrete;Cartão de Crédito;2
+7828;45816;Xiaomi POCO F6;Celulares;2;3413;6826;0,15;5802,1;Nordeste;Online;Cancelado;AL;1911,28;3822,56;1979,54;0,341176471;69;Feminino;50+;30;0;LogTech Express;PIX;3
+7834;43699;iPhone 13 128GB;Celulares;9;552;4968;0;4968;Nordeste;Online;Entregue;AL;248,4;2235,6;2732,4;0,55;78;Não Informado;50+;29;7;Correios;PIX;4
+7860;43119;Xiaomi Pad 5;Celulares;5;758;3790;0,15;3221,5;Nordeste;Online;Entregue;AL;485,12;2425,6;795,9;0,247058824;39;Masculino;30-49;41;4;TransFrete;Cartão de Crédito;3
+7870;44651;Google Pixel 11 Pro;Celulares;8;2128;17024;0,1;15321,6;Nordeste;Loja Física;Entregue;AL;915,04;7320,32;8001,28;0,522222222;83;Masculino;50+;63;8;TransFrete;Voucher;5
+7880;43790;Robo Aspirador de Po Kabum Smart 700;Eletrodomésticos & TV;5;792;3960;0,05;3762;Nordeste;Marketplace;Em trânsito;AL;467,28;2336,4;1425,6;0,378947368;50;Não Informado;50+;174;3;TransFrete;Voucher;1
+7912;43663;Fone Philips TAT1108 TWS;Acessórios;10;2514;25140;0;25140;Nordeste;Online;Cancelado;AL;1181,58;11815,8;13324,2;0,53;70;Masculino;50+;107;0;TransFrete;PIX;2
+7916;43645;iPhone 15 Pro Max;Celulares;4;1132;4528;0,1;4075,2;Nordeste;Marketplace;Em trânsito;AL;701,84;2807,36;1267,84;0,311111111;70;Masculino;50+;84;7;LogTech Express;Voucher;5
+7932;42869;Notebook ASUS Zenbook 14 OLED;Computadores;5;3831;19155;0,1;17239,5;Nordeste;Online;Cancelado;AL;2490,15;12450,75;4788,75;0,277777778;63;Feminino;50+;53;0;LogTech Express;PIX;2
+7956;45879;Google Chromecast com Google TV 4K;Eletrodomésticos & TV;9;58;522;0,1;469,8;Nordeste;Marketplace;Em trânsito;AL;30,16;271,44;198,36;0,422222222;65;Feminino;50+;98;22;Correios;Boleto;2
+7961;43993;Smart TV Samsung Crystal UHD 50;Eletrodomésticos & TV;5;4001;20005;0,1;18004,5;Nordeste;Online;Entregue;AL;2240,56;11202,8;6801,7;0,377777778;76;Feminino;50+;122;22;TransFrete;Cartão de Crédito;5
+7978;45752;Controle PS5 DualSense;Eletrodomésticos & TV;1;749;749;0,1;674,1;Nordeste;Marketplace;Entregue;AL;389,48;389,48;284,62;0,422222222;38;Masculino;30-49;64;9;Correios;Voucher;3
+8010;43661;Fone Philips TAT1108 TWS;Acessórios;4;682;2728;0,15;2318,8;Nordeste;Loja Física;Em trânsito;AL;354,64;1418,56;900,24;0,388235294;65;Feminino;50+;173;17;LogTech Express;Boleto;1
+8015;44899;Vivo V40;Celulares;9;1273;11457;0,1;10311,3;Nordeste;Loja Física;Em trânsito;AL;674,69;6072,21;4239,09;0,411111111;34;Feminino;30-49;135;10;LogTech Express;PIX;3
+8026;42962;OnePlus 12;Celulares;3;1266;3798;0;3798;Nordeste;Marketplace;Entregue;AL;784,92;2354,76;1443,24;0,38;86;Masculino;50+;131;5;TransFrete;PIX;5
+8028;44007;Pilha Alcalina Panasonic AA Lote com 16;Eletrodomésticos & TV;10;3722;37220;0,05;35359;Nordeste;Online;Entregue;AL;2419,3;24193;11166;0,315789474;30;Não Informado;30-49;144;12;LogTech Express;PIX;3
+8029;43405;Apple TV 4K 64GB;Eletrodomésticos & TV;1;3869;3869;0;3869;Nordeste;Loja Física;Em trânsito;AL;1818,43;1818,43;2050,57;0,53;62;Masculino;50+;139;18;Correios;PIX;4
+8047;43150;Console Lenovo Legion Go;Eletrodomésticos & TV;1;1566;1566;0,1;1409,4;Nordeste;Online;Em trânsito;AL;657,72;657,72;751,68;0,533333333;52;Não Informado;50+;64;7;Correios;Voucher;5
+8058;44183;Oppo Reno 12 Pro;Celulares;5;2017;10085;0,1;9076,5;Nordeste;Online;Cancelado;AL;1411,9;7059,5;2017;0,222222222;92;Não Informado;50+;95;0;LogTech Express;Boleto;4
+8097;43422;Samsung Galaxy Z Flip 5;Celulares;4;4171;16684;0,1;15015,6;Nordeste;Loja Física;Entregue;AL;1835,24;7340,96;7674,64;0,511111111;23;Feminino;18-29;158;25;Correios;Cartão de Crédito;5
+8099;43750;Drone DJI Avata 2;Eletrodomésticos & TV;3;1813;5439;0;5439;Nordeste;Online;Em trânsito;AL;1105,93;3317,79;2121,21;0,39;64;Feminino;50+;136;17;LogTech Express;PIX;4
+8107;45478;Notebook Lenovo ThinkPad E14;Computadores;3;1772;5316;0,05;5050,2;Nordeste;Online;Cancelado;AL;1169,52;3508,56;1541,64;0,305263158;37;Feminino;30-49;169;0;TransFrete;PIX;2
+8132;42982;Robo Aspirador de Po Liectroux XR500;Eletrodomésticos & TV;4;3869;15476;0,1;13928,4;Nordeste;Loja Física;Em trânsito;AL;1895,81;7583,24;6345,16;0,455555556;58;Masculino;50+;164;14;TransFrete;PIX;3
+8148;44536;Motorola Edge 50 Ultra;Celulares;8;1046;8368;0,15;7112,8;Nordeste;Loja Física;Cancelado;AL;711,28;5690,24;1422,56;0,2;88;Masculino;50+;53;0;Correios;Boleto;5
+8167;43661;Notebook Acer Swift Go;Computadores;1;1113;1113;0,15;946,05;Nordeste;Online;Cancelado;AL;734,58;734,58;211,47;0,223529412;93;Feminino;50+;157;0;TransFrete;Boleto;2
+8192;43687;Mouse Gamer Logitech G203;Acessórios;7;4699;32893;0,05;31248,35;Nordeste;Marketplace;Entregue;AL;2725,42;19077,94;12170,41;0,389473684;52;Feminino;50+;67;6;Correios;Voucher;5
+8198;44799;Smart TV Philips Ambilight 55;Eletrodomésticos & TV;7;2662;18634;0,05;17702,3;Nordeste;Marketplace;Entregue;AL;1650,44;11553,08;6149,22;0,347368421;60;Feminino;50+;120;13;TransFrete;Voucher;2
+8211;44957;Smart TV Philips Ambilight 55;Eletrodomésticos & TV;2;3070;6140;0,1;5526;Nordeste;Marketplace;Em trânsito;AL;2087,6;4175,2;1350,8;0,244444444;33;Não Informado;30-49;55;11;Correios;Voucher;5
+8233;43365;Tablet Vaio TL10;Computadores;7;2149;15043;0,1;13538,7;Nordeste;Online;Entregue;AL;1246,42;8724,94;4813,76;0,355555556;94;Feminino;50+;19;16;TransFrete;Cartão de Crédito;3
+8234;44021;Drone DJI Avata 2;Eletrodomésticos & TV;1;568;568;0,15;482,8;Nordeste;Online;Entregue;AL;238,56;238,56;244,24;0,505882353;47;Não Informado;30-49;46;15;LogTech Express;Boleto;3
+8249;45953;Xiaomi Pad 5;Celulares;9;3656;32904;0,05;31258,8;Nordeste;Online;Em trânsito;AL;1937,68;17439,12;13819,68;0,442105263;87;Masculino;50+;114;13;Correios;PIX;5
+8380;42830;Xiaomi Pad 6;Computadores;7;2057;14399;0,1;12959,1;Nordeste;Loja Física;Em trânsito;AL;843,37;5903,59;7055,51;0,544444444;35;Não Informado;30-49;178;13;LogTech Express;PIX;1
+8400;43488;Caixa de Som JBL Boombox 3;Eletrodomésticos & TV;10;2495;24950;0,05;23702,5;Nordeste;Online;Entregue;AL;1172,65;11726,5;11976;0,505263158;39;Masculino;30-49;85;8;LogTech Express;Boleto;2
+8406;44474;Fone Haylou GT7 Neo;Acessórios;9;414;3726;0,05;3539,7;Nordeste;Loja Física;Entregue;AL;285,66;2570,94;968,76;0,273684211;20;Masculino;18-29;80;15;TransFrete;Boleto;2
+8447;45516;Amazon Fire TV Stick Lite;Eletrodomésticos & TV;2;388;776;0,1;698,4;Nordeste;Online;Em trânsito;AL;194;388;310,4;0,444444444;42;Masculino;30-49;84;13;TransFrete;Boleto;5
+8450;45825;Console Xbox Series X 1TB;Eletrodomésticos & TV;2;1172;2344;0,05;2226,8;Nordeste;Marketplace;Cancelado;AL;820,4;1640,8;586;0,263157895;24;Feminino;18-29;45;0;Correios;PIX;4
+8455;45001;Xiaomi Redmi 13C;Celulares;7;2741;19187;0;19187;Nordeste;Loja Física;Cancelado;AL;1507,55;10552,85;8634,15;0,45;41;Masculino;30-49;153;0;TransFrete;PIX;1
+8461;45810;Fritadeira Air Fryer Mondial Family 4L;Eletrodomésticos & TV;4;1645;6580;0,1;5922;Nordeste;Loja Física;Em trânsito;AL;871,85;3487,4;2434,6;0,411111111;41;Masculino;30-49;152;13;LogTech Express;Boleto;5
+8515;44102;Repetidor de Sinal Wi-Fi Xiaomi Pro;Eletrodomésticos & TV;3;1788;5364;0,15;4559,4;Nordeste;Loja Física;Entregue;AL;1233,72;3701,16;858,24;0,188235294;58;Não Informado;50+;23;25;LogTech Express;Boleto;2
+8526;44962;Smart TV LG NanoCell 65;Eletrodomésticos & TV;9;4472;40248;0,15;34210,8;Nordeste;Loja Física;Cancelado;AL;2817,36;25356,24;8854,56;0,258823529;29;Feminino;18-29;105;0;LogTech Express;PIX;3
+8527;43724;Notebook Dell Inspiron 15;Computadores;3;3633;10899;0,1;9809,1;Nordeste;Marketplace;Em trânsito;AL;1780,17;5340,51;4468,59;0,455555556;63;Não Informado;50+;104;23;Correios;Cartão de Crédito;4
+8535;45650;Fritadeira Air Fryer Philips Walita Essential;Eletrodomésticos & TV;2;4329;8658;0;8658;Nordeste;Marketplace;Cancelado;AL;1861,47;3722,94;4935,06;0,57;88;Não Informado;50+;23;0;Correios;Cartão de Crédito;1
+8554;43448;Repetidor de Sinal Wi-Fi Xiaomi Pro;Eletrodomésticos & TV;5;2700;13500;0,1;12150;Nordeste;Marketplace;Entregue;AL;1647;8235;3915;0,322222222;34;Feminino;30-49;112;6;LogTech Express;Cartão de Crédito;3
+8589;45118;Honor Magic 6 Pro;Celulares;3;3901;11703;0,1;10532,7;Nordeste;Marketplace;Cancelado;AL;1560,4;4681,2;5851,5;0,555555556;51;Masculino;50+;145;0;TransFrete;Voucher;1
+8597;44671;Samsung Galaxy Tab A9+;Computadores;7;684;4788;0;4788;Nordeste;Marketplace;Entregue;AL;403,56;2824,92;1963,08;0,41;45;Não Informado;30-49;162;7;Correios;Cartão de Crédito;5
+8625;45878;Smartwatch Samsung Galaxy Watch 7;Eletrodomésticos & TV;7;3243;22701;0,1;20430,9;Nordeste;Loja Física;Cancelado;AL;1978,23;13847,61;6583,29;0,322222222;79;Feminino;50+;131;0;TransFrete;Cartão de Crédito;5
+8637;43342;Apple AirPods 3;Acessórios;5;1007;5035;0,1;4531,5;Nordeste;Marketplace;Em trânsito;AL;453,15;2265,75;2265,75;0,5;81;Não Informado;50+;85;13;TransFrete;Cartão de Crédito;4
+8671;43598;Mini PC Beelink SER5;Computadores;4;517;2068;0,05;1964,6;Nordeste;Marketplace;Entregue;AL;284,35;1137,4;827,2;0,421052632;23;Masculino;18-29;108;9;Correios;Boleto;4
+8679;43521;Realme 13 Pro+;Celulares;9;2029;18261;0;18261;Nordeste;Marketplace;Cancelado;AL;892,76;8034,84;10226,16;0,56;68;Masculino;50+;30;0;LogTech Express;Cartão de Crédito;3
+8694;45425;Console Xbox Series X 1TB;Eletrodomésticos & TV;8;1326;10608;0,15;9016,8;Nordeste;Loja Física;Em trânsito;AL;742,56;5940,48;3076,32;0,341176471;75;Masculino;50+;173;11;Correios;Voucher;5
+8745;43432;Echo Pop com Alexa;Eletrodomésticos & TV;10;3835;38350;0;38350;Nordeste;Online;Entregue;AL;2032,55;20325,5;18024,5;0,47;60;Masculino;50+;93;25;LogTech Express;Boleto;4
+8750;43047;Xiaomi POCO X7 Pro;Celulares;2;3020;6040;0,15;5134;Nordeste;Online;Cancelado;AL;1902,6;3805,2;1328,8;0,258823529;54;Masculino;50+;59;0;TransFrete;Boleto;1
+8784;43629;Teclado Sem Fio Logitech K380;Acessórios;9;3948;35532;0,15;30202,2;Nordeste;Online;Entregue;AL;1618,68;14568,12;15634,08;0,517647059;40;Não Informado;30-49;148;23;Correios;Boleto;1
+8795;43956;Roku Express HD;Eletrodomésticos & TV;4;1743;6972;0,1;6274,8;Nordeste;Loja Física;Entregue;AL;976,08;3904,32;2370,48;0,377777778;84;Feminino;50+;20;20;Correios;Cartão de Crédito;4
+8797;42932;Realme 13 Pro+;Celulares;2;4200;8400;0,15;7140;Nordeste;Marketplace;Entregue;AL;2730;5460;1680;0,235294118;30;Feminino;30-49;153;19;LogTech Express;Cartão de Crédito;5
+8815;45243;Console Lenovo Legion Go;Eletrodomésticos & TV;5;748;3740;0,05;3553;Nordeste;Loja Física;Cancelado;AL;478,72;2393,6;1159,4;0,326315789;22;Feminino;18-29;64;0;LogTech Express;Voucher;3
+8874;45864;Smart TV LG OLED 55 B4;Eletrodomésticos & TV;10;3129;31290;0,15;26596,5;Nordeste;Online;Cancelado;AL;1564,5;15645;10951,5;0,411764706;19;Feminino;18-29;133;0;LogTech Express;Voucher;2
+8910;45753;Roteador Wi-Fi 6 TP-Link Archer AX12;Eletrodomésticos & TV;4;4066;16264;0,05;15450,8;Nordeste;Online;Entregue;AL;2805,54;11222,16;4228,64;0,273684211;56;Feminino;50+;173;3;LogTech Express;Cartão de Crédito;3
+8926;44357;Filtro de Linha iClamper Energia 5;Acessórios;3;604;1812;0,15;1540,2;Nordeste;Online;Cancelado;AL;368,44;1105,32;434,88;0,282352941;27;Feminino;18-29;178;0;LogTech Express;Boleto;2
+8959;45757;Samsung Galaxy A15;Celulares;2;4920;9840;0,05;9348;Nordeste;Online;Em trânsito;AL;2853,6;5707,2;3640,8;0,389473684;89;Masculino;50+;69;2;Correios;Voucher;3
+8967;45982;Xiaomi Pad 5;Celulares;2;2878;5756;0,15;4892,6;Nordeste;Loja Física;Entregue;AL;1151,2;2302,4;2590,2;0,529411765;76;Masculino;50+;126;24;Correios;PIX;5
+8993;42833;Samsung Galaxy A56 5G;Celulares;6;3359;20154;0,15;17130,9;Nordeste;Marketplace;Em trânsito;AL;1679,5;10077;7053,9;0,411764706;20;Feminino;18-29;172;22;Correios;Voucher;2
+9048;43452;Fritadeira Air Fryer Philips Walita Essential;Eletrodomésticos & TV;6;1535;9210;0,1;8289;Nordeste;Loja Física;Entregue;AL;1059,15;6354,9;1934,1;0,233333333;79;Feminino;50+;18;12;Correios;Boleto;1
+9118;42791;Smartwatch Apple Watch Series 10;Eletrodomésticos & TV;1;1506;1506;0,05;1430,7;Nordeste;Loja Física;Em trânsito;AL;768,06;768,06;662,64;0,463157895;66;Feminino;50+;98;4;LogTech Express;Cartão de Crédito;3
+9124;45687;Hub USB-C 7 em 1 Baseus;Acessórios;9;4903;44127;0,05;41920,65;Nordeste;Marketplace;Entregue;AL;3334,04;30006,36;11914,29;0,284210526;33;Masculino;30-49;156;19;Correios;Boleto;5
+9148;43057;iPhone SE 4;Celulares;8;3754;30032;0,15;25527,2;Nordeste;Online;Em trânsito;AL;1501,6;12012,8;13514,4;0,529411765;95;Feminino;50+;58;18;Correios;Boleto;2
+9149;45690;Smart TV LG NanoCell 65;Eletrodomésticos & TV;1;3649;3649;0;3649;Nordeste;Marketplace;Em trânsito;AL;2481,32;2481,32;1167,68;0,32;91;Feminino;50+;57;24;TransFrete;Cartão de Crédito;5
+9205;44865;Carregador Portatil Anker PowerCore 10000mAh;Acessórios;1;505;505;0;505;Nordeste;Online;Entregue;AL;252,5;252,5;252,5;0,5;36;Não Informado;30-49;171;17;LogTech Express;Boleto;5
+9210;44304;iPhone SE 4;Celulares;9;1591;14319;0,05;13603,05;Nordeste;Marketplace;Entregue;AL;668,22;6013,98;7589,07;0,557894737;48;Masculino;30-49;165;20;LogTech Express;Voucher;3
+9211;45313;Smart TV LG OLED 55 B4;Eletrodomésticos & TV;10;3906;39060;0,15;33201;Nordeste;Online;Entregue;AL;2070,18;20701,8;12499,2;0,376470588;54;Masculino;50+;160;25;LogTech Express;PIX;5
+9227;43556;Asus ROG Phone 9;Celulares;1;2541;2541;0,1;2286,9;Nordeste;Marketplace;Cancelado;AL;1651,65;1651,65;635,25;0,277777778;71;Não Informado;50+;46;0;Correios;Cartão de Crédito;4
+9234;45790;Headset Gamer Corsair HS55;Acessórios;9;1911;17199;0,05;16339,05;Nordeste;Marketplace;Em trânsito;AL;1051,05;9459,45;6879,6;0,421052632;70;Feminino;50+;156;2;LogTech Express;Boleto;2
+9272;43053;iPad Pro M4;Computadores;6;2122;12732;0,05;12095,4;Nordeste;Online;Entregue;AL;1315,64;7893,84;4201,56;0,347368421;71;Não Informado;50+;134;5;LogTech Express;Cartão de Crédito;4
+9288;45042;Caixa de Som Bluetooth LG XBOOM Go;Eletrodomésticos & TV;7;4878;34146;0,15;29024,1;Nordeste;Marketplace;Em trânsito;AL;2780,46;19463,22;9560,88;0,329411765;19;Feminino;18-29;146;2;LogTech Express;Voucher;5
+9302;43004;Smart TV LG NanoCell 65;Eletrodomésticos & TV;1;2319;2319;0;2319;Nordeste;Marketplace;Entregue;AL;1159,5;1159,5;1159,5;0,5;77;Masculino;50+;115;22;Correios;Cartão de Crédito;4
+9357;43863;Xiaomi POCO X7 Pro;Celulares;7;3097;21679;0;21679;Nordeste;Online;Entregue;AL;2136,93;14958,51;6720,49;0,31;57;Não Informado;50+;15;3;TransFrete;PIX;5
+9379;44028;Motorola Edge 50 Neo;Celulares;3;242;726;0;726;Nordeste;Marketplace;Entregue;AL;111,32;333,96;392,04;0,54;18;Feminino;18-29;60;23;Correios;Boleto;3
+9421;45726;Samsung Galaxy Z Flip 5;Celulares;8;1754;14032;0,05;13330,4;Nordeste;Loja Física;Entregue;AL;1210,26;9682,08;3648,32;0,273684211;29;Feminino;18-29;176;22;LogTech Express;Boleto;3
+9438;45364;Fritadeira Air Fryer Mondial Family 4L;Eletrodomésticos & TV;6;2970;17820;0,15;15147;Nordeste;Online;Entregue;AL;1485;8910;6237;0,411764706;67;Feminino;50+;161;17;LogTech Express;PIX;3
+9478;45109;Mini Projetor Portatil Magcubic HY300;Eletrodomésticos & TV;3;2543;7629;0,15;6484,65;Nordeste;Loja Física;Cancelado;AL;1678,38;5035,14;1449,51;0,223529412;74;Não Informado;50+;159;0;TransFrete;Boleto;3
+9487;45770;Motorola Moto G34;Celulares;10;1950;19500;0,05;18525;Nordeste;Marketplace;Cancelado;AL;877,5;8775;9750;0,526315789;29;Não Informado;18-29;86;0;LogTech Express;Cartão de Crédito;5
+9499;44943;Fritadeira Air Fryer Philips Walita Essential;Eletrodomésticos & TV;2;2970;5940;0,15;5049;Nordeste;Loja Física;Em trânsito;AL;1871,1;3742,2;1306,8;0,258823529;47;Masculino;30-49;41;16;Correios;PIX;3
+9509;44531;OnePlus 13R;Celulares;10;1840;18400;0,15;15640;Nordeste;Marketplace;Cancelado;AL;1196;11960;3680;0,235294118;87;Feminino;50+;51;0;LogTech Express;Cartão de Crédito;5
+9511;45951;Samsung Galaxy A35;Celulares;9;4761;42849;0,1;38564,1;Nordeste;Online;Cancelado;AL;1952,01;17568,09;20996,01;0,544444444;23;Não Informado;18-29;85;0;Correios;PIX;4
+9554;43986;Panela de Pressao Eletrica Mondial 5L;Eletrodomésticos & TV;5;3895;19475;0,15;16553,75;Nordeste;Loja Física;Entregue;AL;1869,6;9348;7205,75;0,435294118;67;Não Informado;50+;45;25;LogTech Express;Cartão de Crédito;1
+9607;43633;Placa de Video RX 7600 XT;Computadores;9;843;7587;0,1;6828,3;Nordeste;Online;Entregue;AL;455,22;4096,98;2731,32;0,4;29;Masculino;18-29;138;6;TransFrete;PIX;5
+9610;45054;Notebook Samsung Galaxy Book4;Computadores;8;3719;29752;0,15;25289,2;Nordeste;Marketplace;Em trânsito;AL;1933,88;15471,04;9818,16;0,388235294;57;Feminino;50+;136;5;TransFrete;Boleto;4
+9612;44597;Fone Xiaomi Redmi Buds 5 Pro;Acessórios;1;1679;1679;0,15;1427,15;Nordeste;Online;Cancelado;AL;856,29;856,29;570,86;0,4;90;Feminino;50+;72;0;LogTech Express;Voucher;2
+9629;42922;Samsung Galaxy S23 FE;Celulares;10;148;1480;0,05;1406;Nordeste;Loja Física;Entregue;AL;91,76;917,6;488,4;0,347368421;90;Feminino;50+;111;17;TransFrete;Boleto;4
+9650;43759;Sony Xperia 1 VI;Celulares;4;3466;13864;0;13864;Nordeste;Marketplace;Cancelado;AL;1421,06;5684,24;8179,76;0,59;78;Não Informado;50+;23;0;Correios;Voucher;5
+9656;43092;Fechadura Digital Intelbras FR 101;Eletrodomésticos & TV;1;1924;1924;0,15;1635,4;Nordeste;Marketplace;Cancelado;AL;827,32;827,32;808,08;0,494117647;18;Não Informado;18-29;43;0;Correios;Boleto;2
+9735;43319;Motorola Moto G85;Celulares;4;212;848;0;848;Nordeste;Marketplace;Em trânsito;AL;122,96;491,84;356,16;0,42;49;Não Informado;30-49;49;7;TransFrete;Cartão de Crédito;5
+9764;44992;Notebook HP 256 G9;Computadores;6;1098;6588;0,15;5599,8;Nordeste;Online;Entregue;AL;450,18;2701,08;2898,72;0,517647059;89;Feminino;50+;120;16;LogTech Express;PIX;5
+9781;45804;Samsung Galaxy Buds3 Pro;Acessórios;5;1068;5340;0,05;5073;Nordeste;Loja Física;Cancelado;AL;459,24;2296,2;2776,8;0,547368421;89;Feminino;50+;120;0;LogTech Express;PIX;4
+9786;45530;Echo Show 5 com Alexa;Eletrodomésticos & TV;6;2639;15834;0,05;15042,3;Nordeste;Marketplace;Entregue;AL;1425,06;8550,36;6491,94;0,431578947;22;Não Informado;18-29;41;19;LogTech Express;Boleto;4
+9894;43559;Tablet Lenovo Tab P12;Computadores;10;2923;29230;0,05;27768,5;Nordeste;Online;Em trânsito;AL;1403,04;14030,4;13738,1;0,494736842;19;Masculino;18-29;127;18;LogTech Express;PIX;4
+9943;45053;Soundbar LG S40Q;Eletrodomésticos & TV;9;1128;10152;0,05;9644,4;Nordeste;Online;Cancelado;AL;710,64;6395,76;3248,64;0,336842105;18;Feminino;18-29;124;0;LogTech Express;Voucher;2
+9971;45945;Notebook ASUS Vivobook 15;Computadores;6;2945;17670;0;17670;Nordeste;Marketplace;Em trânsito;AL;1266,35;7598,1;10071,9;0,57;57;Não Informado;50+;48;16;LogTech Express;Cartão de Crédito;1
+9979;44138;Motorola Moto G24;Celulares;10;4111;41110;0,05;39054,5;Nordeste;Marketplace;Entregue;AL;1849,95;18499,5;20555;0,526315789;23;Não Informado;18-29;115;13;TransFrete;Boleto;5
