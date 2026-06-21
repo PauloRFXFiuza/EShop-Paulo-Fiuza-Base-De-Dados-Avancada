@@ -1,0 +1,72 @@
+﻿Questão 1 (Nível: Tabela Dinâmica / Visão Geral);
+;
+Qual é o Faturamento Líquido Total (Soma da coluna Receita_Liquida) acumulado de todo o período (2017 a 2025) da sua base de dados?;
+;
+Dica: Arraste a Receita_Liquida para o campo de Valores em uma tabela dinâmica ou use a fórmula =SOMA().;
+RESPOSTA;
+R$ 128.130.599,10;
+;
+Questão 2 (Nível: Filtros / Segmentação de Dados);
+;
+Se analisarmos o faturamento por categorias, qual das 4 categorias (Acessórios, Celulares, Computadores ou Eletrodomésticos & TV) gerou o maior Faturamento Líquido Total para a empresa?;
+RESPOSTA;
+Categoria;Faturamento Líquido Total
+Acessórios;
+Celulares;
+Computadores;
+Eletrodomésticos & TV;
+;
+Questão 3 (Nível: Fórmulas de Contagem);
+;
+Qual foi o Meio de Pagamento mais utilizado pelos clientes em número absoluto de transações (quantidade de pedidos realizados)?;
+;
+Dica: Use uma tabela dinâmica fazendo a contagem por Meio_Pagamento ou a fórmula =CONT.SE().;
+RESPOSTA;
+Categoria;Qtde
+Boleto;2562
+Cartão de Crédito;2506
+PIX;2478
+Voucher;2454
+Questão 4 (Nível: Análise de Clientes);
+;
+Se calcularmos a média de idade (coluna Idade_Cliente) de todas as pessoas que compraram na EShop Paulo Fiuza, qual é o valor médio encontrado? (Pode arredondar para o número inteiro mais próximo).;
+;
+Dica: Use a fórmula =MÉDIA().;
+RESPOSTA;
+56;
+;
+;
+Questão 5 (Nível: Geográfico);
+;
+Qual o Estado (UF) brasileiro que registrou o maior número de pedidos (vendas) na base de dados?;
+;
+Dica: Faça uma contagem de linhas agrupada por Estado_UF.;
+;
+UF;Qtde
+AL;408
+SE;402
+PI;400
+PB;398
+PE;388
+SP;386
+RO;383
+MG;382
+MA;380
+RJ;375
+SC;374
+MT;374
+DF;370
+RN;369
+GO;368
+TO;367
+CE;365
+PR;364
+AM;364
+PA;356
+RS;354
+ES;352
+AC;352
+BA;350
+RR;343
+MS;341
+AP;335
